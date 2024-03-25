@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\unrealeditor\\inc\\cardgame\\uht\\cardgamecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\cardgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cardgame\\definitions.cardgame.h",
+            "d:\\github\\mobilecardgame\\cardgame\\source\\cardgame\\cardgamecharacter.h",
+            "d:\\epic\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic\\ue_5.2\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epic\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epic\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\unrealeditor\\inc\\cardgame\\uht\\cardgamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
