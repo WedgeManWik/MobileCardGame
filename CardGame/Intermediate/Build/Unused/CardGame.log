@@ -1,0 +1,38 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CardGameEditor Win64 Development -Project="C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\CardGame.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\janio\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\janio\Documents\GitHub\MobileCardGame).
+  Creating makefile for CardGameEditor (no existing makefile)
+  Parsing headers for CardGameEditor
+    Running Internal UnrealHeaderTool C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\CardGame.uproject C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\CardGameEditor\Development\CardGameEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 7 written
+  Reflection code generated for CardGameEditor in 2.7007714 seconds
+  Building CardGameEditor...
+  Using Visual Studio 2022 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in CardGameEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (4 physical cores, 4 logical cores)
+    Executing up to 4 processes, one per physical core
+    Requested 1.5 GB free memory per action, 887.93 MB available: limiting max parallel actions to 1
+  Building 13 actions with 1 process...
+  [1/13] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.cpp
+  [2/13] Resource Default.rc2
+  [3/13] Compile [x64] CardGameGameMode.gen.cpp
+  [4/13] Compile [x64] CardGameCharacter.gen.cpp
+  [5/13] Compile [x64] CardGame.cpp
+  [6/13] Compile [x64] CardGame.init.gen.cpp
+  [7/13] Compile [x64] CardGameCharacter.cpp
+  [8/13] Compile [x64] CardGamePlayerController.gen.cpp
+  [9/13] Compile [x64] CardGameGameMode.cpp
+  [10/13] Compile [x64] CardGamePlayerController.cpp
+  [11/13] Link [x64] UnrealEditor-CardGame.dll
+     Creating library C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
+  [12/13] Link [x64] UnrealEditor-CardGame.lib
+     Creating library C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.lib and object C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.exp
+  [13/13] WriteMetadata CardGameEditor.target
+  Total time in Parallel executor: 77.95 seconds
+  Total execution time: 112.68 seconds
