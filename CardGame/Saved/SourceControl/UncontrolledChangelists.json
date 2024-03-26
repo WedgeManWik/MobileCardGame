@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/WB_Card.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/WB_CardHand.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/WB_CardHUD.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/BI_CardInterface.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/BI_CardHandWidget.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/S_CardInfo.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/DT_Cards.uasset"
+			]
+		}
+	]
+}
