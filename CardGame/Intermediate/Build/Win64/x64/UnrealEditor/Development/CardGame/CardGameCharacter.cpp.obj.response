@@ -1,12 +1,12 @@
 C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGameCharacter.cpp
 /I .
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes

@@ -15,6 +15,16 @@
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/TopDown/Maps/TopDownMap.umap",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/BP_CardDragDrop.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/Abilities/Ability_BaseAbility.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/Abilities/Ability_FireBall.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/AbilityTasks/AbilityTask_BaseAbilityTask.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/AbilityTasks/AbilityTask_LaunchProjectile.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/Abilities/Ability_LaunchProjectile.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/BaseAbility.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/BaseAbilityTask.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/Abilities/Ability_TestAbility.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/Ability_BaseAbility.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Abilities/AbilityTask_BaseAbilityTask.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/BI_CardInterface.uasset"
 			]
 		}
