@@ -1,12 +1,12 @@
-C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\BaseAbility.cpp
+C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\Abilities\BaseAbility.cpp
 /I .
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
@@ -303,10 +303,7 @@ C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\BaseAbil
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.CardGame.h"
-/Yu"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.h"
 /Fo"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\BaseAbility.cpp.obj"
 /sourceDependencies C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\BaseAbility.cpp.dep.json
 /Zc:inline

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\source\\cardgame\\baseability.cpp",
+        "Source": "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\source\\cardgame\\abilities\\baseability.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\cardgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
             "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cardgame\\definitions.cardgame.h",
-            "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\source\\cardgame\\baseability.h",
+            "c:\\users\\janio\\documents\\github\\mobilecardgame\\cardgame\\source\\cardgame\\abilities\\baseability.h",
             "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
             "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
             "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",

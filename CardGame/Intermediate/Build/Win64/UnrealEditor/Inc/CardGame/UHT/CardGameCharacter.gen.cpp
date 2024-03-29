@@ -12,8 +12,6 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 	CARDGAME_API UClass* Z_Construct_UClass_ACardGameCharacter();
 	CARDGAME_API UClass* Z_Construct_UClass_ACardGameCharacter_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
-	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
-	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 	UPackage* Z_Construct_UPackage__Script_CardGame();
 // End Cross Module References
 	void ACardGameCharacter::StaticRegisterNativesACardGameCharacter()
@@ -30,15 +28,6 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_TopDownCameraComponent_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_TopDownCameraComponent;
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_CameraBoom_MetaData[];
-#endif
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_CameraBoom;
-		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -55,32 +44,6 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		{ "ModuleRelativePath", "CardGameCharacter.h" },
 	};
 #endif
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_TopDownCameraComponent_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "Camera" },
-		{ "Comment", "/** Top down camera */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "CardGameCharacter.h" },
-		{ "ToolTip", "Top down camera" },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_TopDownCameraComponent = { "TopDownCameraComponent", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ACardGameCharacter, TopDownCameraComponent), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_TopDownCameraComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_TopDownCameraComponent_MetaData)) };
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_CameraBoom_MetaData[] = {
-		{ "AllowPrivateAccess", "true" },
-		{ "Category", "Camera" },
-		{ "Comment", "/** Camera boom positioning the camera above the character */" },
-		{ "EditInline", "true" },
-		{ "ModuleRelativePath", "CardGameCharacter.h" },
-		{ "ToolTip", "Camera boom positioning the camera above the character" },
-	};
-#endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ACardGameCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_CameraBoom_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_CameraBoom_MetaData)) };
-	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACardGameCharacter_Statics::PropPointers[] = {
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_TopDownCameraComponent,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACardGameCharacter_Statics::NewProp_CameraBoom,
-	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ACardGameCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACardGameCharacter>::IsAbstract,
 	};
@@ -90,11 +53,11 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		Z_Construct_UClass_ACardGameCharacter_Statics::PropPointers,
+		nullptr,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		UE_ARRAY_COUNT(Z_Construct_UClass_ACardGameCharacter_Statics::PropPointers),
+		0,
 		0,
 		0x008000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_ACardGameCharacter_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_ACardGameCharacter_Statics::Class_MetaDataParams))
@@ -118,9 +81,9 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ACardGameCharacter, ACardGameCharacter::StaticClass, TEXT("ACardGameCharacter"), &Z_Registration_Info_UClass_ACardGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACardGameCharacter), 20685737U) },
+		{ Z_Construct_UClass_ACardGameCharacter, ACardGameCharacter::StaticClass, TEXT("ACardGameCharacter"), &Z_Registration_Info_UClass_ACardGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACardGameCharacter), 655695664U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_2094751329(TEXT("/Script/CardGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_1390383756(TEXT("/Script/CardGame"),
 		Z_CompiledInDeferFile_FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
