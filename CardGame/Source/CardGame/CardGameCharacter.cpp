@@ -10,12 +10,70 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Materials/Material.h"
 #include "Engine/World.h"
+#include "AbilitySystemComponent.h"
+#include "GAS/Abilities/GAGameplayAbility.h"
+#include "GAS/AttributeSets/GAAttributeSet.h"
 
 ACardGameCharacter::ACardGameCharacter()
 {
 	// Activate ticking in order to update the cursor every frame.
 	PrimaryActorTick.bCanEverTick = false;
 	PrimaryActorTick.bStartWithTickEnabled = false;
+
+	AbilitySystemComponent = CreateDefaultSubobject<UAbilitySystemComponent>("AbilitySystemComponent");
+
+	AttributeSet = CreateDefaultSubobject<UGAAttributeSet>("AttributeSet");
+}
+
+UAbilitySystemComponent* ACardGameCharacter::GetAbilitySystemComponent() const
+{
+	return AbilitySystemComponent;
+}
+
+void ACardGameCharacter::PossessedBy(AController* NewController)
+{
+	Super::PossessedBy(NewController);
+
+	if (!AbilitySystemComponent)
+	{
+		return;
+	}
+
+	AbilitySystemComponent->InitAbilityActorInfo(this, this);
+
+	InitializeAbilities();
+	InitializeEffects();
+}
+
+void ACardGameCharacter::InitializeAbilities()
+{
+	if (!HasAuthority() || !AbilitySystemComponent)
+	{
+		for (TSubclassOf<UGAGameplayAbility>& Ability : DefaultAbilities)
+		{
+			AbilitySystemComponent->GiveAbility(FGameplayAbilitySpec(Ability, 1, static_cast<int32>(Ability.GetDefaultObject()->AbilityInputID), this));
+		}
+	}
+}
+
+void ACardGameCharacter::InitializeEffects()
+{
+	if (!AbilitySystemComponent)
+	{
+		return;
+	}
+
+	FGameplayEffectContextHandle EffectContext = AbilitySystemComponent->MakeEffectContext();
+	EffectContext.AddSourceObject(this);
+
+	for (TSubclassOf<UGameplayEffect>& Effect : DefaultEffects)
+	{
+		FGameplayEffectSpecHandle SpecHandle = AbilitySystemComponent->MakeOutgoingSpec(Effect, 1, EffectContext);
+		if (SpecHandle.IsValid())
+		{
+			FActiveGameplayEffectHandle GEHandle = AbilitySystemComponent->ApplyGameplayEffectSpecToSelf(*SpecHandle.Data.Get());
+		}
+	}
 }
 
 void ACardGameCharacter::Tick(float DeltaSeconds)

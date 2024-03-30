@@ -39,6 +39,8 @@
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/TopDown/Blueprints/BI_CardGameMode.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Components/BC_HealthComponent.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/GAS/Effects/GE_DefaultAttributes.uasset",
+				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/GA_FireAbility.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/Player/Blueprints/BP+PlayerCharacter.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/CardUi/DT_Cards.uasset",
 				"C:/Users/janio/Documents/GitHub/MobileCardGame/CardGame/Content/TopDown/Blueprints/BP_PlayerCharacter.uasset",

@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeCardGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xFAF9292F,
-				0xEC37F3BD,
+				0xDCAE6ACC,
+				0xE3EB6DCE,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CardGame.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CardGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CardGame(Z_Construct_UPackage__Script_CardGame, TEXT("/Script/CardGame"), Z_Registration_Info_UPackage__Script_CardGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xFAF9292F, 0xEC37F3BD));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CardGame(Z_Construct_UPackage__Script_CardGame, TEXT("/Script/CardGame"), Z_Registration_Info_UPackage__Script_CardGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDCAE6ACC, 0xE3EB6DCE));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

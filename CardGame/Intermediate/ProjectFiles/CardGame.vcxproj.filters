@@ -72,5 +72,26 @@
     <ClInclude Include="..\..\Source\CardGame\CardGamePlayerController.h">
       <Filter>Source\CardGame</Filter>
     </ClInclude>
+    <Filter Include="Source\CardGame\GAS">
+      <UniqueIdentifier>{FCD3E832-7CC7-350F-9F7B-B55F00D1EE58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CardGame\GAS\Abilities">
+      <UniqueIdentifier>{D1293FBE-2295-3B84-86A6-8C737FE20412}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CardGame\GAS\Abilities\GAGameplayAbility.cpp">
+      <Filter>Source\CardGame\GAS\Abilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CardGame\GAS\Abilities\GAGameplayAbility.h">
+      <Filter>Source\CardGame\GAS\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\CardGame\GAS\AttributeSets">
+      <UniqueIdentifier>{48D2B98F-B791-392B-9787-F0EEFF36EA79}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CardGame\GAS\AttributeSets\GAAttributeSet.cpp">
+      <Filter>Source\CardGame\GAS\AttributeSets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CardGame\GAS\AttributeSets\GAAttributeSet.h">
+      <Filter>Source\CardGame\GAS\AttributeSets</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

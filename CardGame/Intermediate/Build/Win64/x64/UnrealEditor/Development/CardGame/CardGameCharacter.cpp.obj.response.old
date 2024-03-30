@@ -1,23 +1,24 @@
 C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGameCharacter.cpp
 /I .
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
-/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I Runtime
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT
+/I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
+/I ..\Plugins\Runtime\GameplayAbilities\Source
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
+/I Runtime\Net\Core\Classes
+/I Runtime\Net\Core\Public
+/I Runtime\Net
+/I Runtime\Net\Common\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline\UHT
 /I Runtime\CoreOnline\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore\UHT
-/I Runtime\Net\Core\Classes
-/I Runtime\Net\Core\Public
-/I Runtime\Net
-/I Runtime\Net\Common\Public
 /I Runtime\ApplicationCore\Public
 /I Runtime\RHI\Public
 /I Runtime\ImageCore\Public
@@ -274,6 +275,11 @@ C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGame
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
+/I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT
+/I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
+/I ..\Plugins\Runtime\DataRegistry\Source
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\UnrealEditor\Inc\CardGame\UHT
+/I C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality\UHT
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh\UHT
@@ -303,10 +309,7 @@ C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGame
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.CardGame.h"
-/Yu"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/FI"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.h"
 /Fo"C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\CardGameCharacter.cpp.obj"
 /sourceDependencies C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\CardGameCharacter.cpp.dep.json
 /Zc:inline
