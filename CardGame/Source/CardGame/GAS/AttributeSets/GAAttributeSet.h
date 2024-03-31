@@ -22,12 +22,20 @@ class CARDGAME_API UGAAttributeSet : public UAttributeSet
 
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, Health);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxHealth);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, Mana);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxMana);
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData Health;
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData MaxHealth;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData Mana;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData MaxMana;
 
     virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
     virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;

@@ -3,7 +3,7 @@
 
 #include "GAAttributeSet.h"
 
-UGAAttributeSet::UGAAttributeSet() : Health(100.0f), MaxHealth(100.0f)
+UGAAttributeSet::UGAAttributeSet() : Health(100.0f), MaxHealth(100.0f), Mana(50.0f), MaxMana(50.0f)
 {
 }
 
@@ -26,5 +26,9 @@ void UGAAttributeSet::ClampAttributeOnChange(const FGameplayAttribute& Attribute
 	if (Attribute == GetHealthAttribute())
 	{
 		NewValue = FMath::Clamp(NewValue, 0.0f, GetMaxHealth());
+	}
+	else if (Attribute == GetManaAttribute())
+	{
+		NewValue = FMath::Clamp(NewValue, 0.0f, GetMaxMana());
 	}
 }
