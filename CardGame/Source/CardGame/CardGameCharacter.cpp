@@ -10,7 +10,7 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Materials/Material.h"
 #include "Engine/World.h"
-#include "AbilitySystemComponent.h"
+//#include "AbilitySystemComponent.h"
 #include "GAS/Abilities/GAGameplayAbility.h"
 #include "GAS/AttributeSets/GAAttributeSet.h"
 
@@ -76,7 +76,29 @@ void ACardGameCharacter::InitializeEffects()
 	}
 }
 
+void ACardGameCharacter::OnHealthChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnHealthChanged(Data.OldValue, Data.NewValue);
+}
+
+void ACardGameCharacter::OnManaChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnManaChanged(Data.OldValue, Data.NewValue);
+}
+
 void ACardGameCharacter::Tick(float DeltaSeconds)
 {
     Super::Tick(DeltaSeconds);
 }
+
+void ACardGameCharacter::BeginPlay()
+{
+	Super::BeginPlay();
+
+	if (AbilitySystemComponent)
+	{
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetHealthAttribute()).AddUObject(this, &ACardGameCharacter::OnHealthChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetManaAttribute()).AddUObject(this, &ACardGameCharacter::OnManaChangedNative);
+	}
+}
+

@@ -12,13 +12,19 @@
   [Upgrade]
   Determining max actions to execute in parallel (4 physical cores, 4 logical cores)
     Executing up to 4 processes, one per physical core
-    Requested 1.5 GB free memory per action, 2.6 GB available: limiting max parallel actions to 1
-  Building 4 actions with 1 process...
-  [1/4] Compile [x64] GAAttributeSet.cpp
-  [2/4] Link [x64] UnrealEditor-CardGame.dll
+    Requested 1.5 GB free memory per action, 2.29 GB available: limiting max parallel actions to 1
+  Building 10 actions with 1 process...
+  [1/10] Compile [x64] GAAttributeSet.cpp
+  [2/10] Compile [x64] CardGameGameMode.cpp
+  [3/10] Compile [x64] CardGameCharacter.gen.cpp
+  [4/10] Compile [x64] GAAttributeSet.gen.cpp
+  [5/10] Compile [x64] CardGamePlayerController.cpp
+  [6/10] Compile [x64] CardGameCharacter.cpp
+  [7/10] Compile [x64] CardGame.init.gen.cpp
+  [8/10] Link [x64] UnrealEditor-CardGame.dll
      Creating library C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
-  [3/4] Link [x64] UnrealEditor-CardGame.lib
+  [9/10] Link [x64] UnrealEditor-CardGame.lib
      Creating library C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.lib and object C:\Users\janio\Documents\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.exp
-  [4/4] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 43.79 seconds
-  Total execution time: 46.89 seconds
+  [10/10] WriteMetadata CardGameEditor.target
+  Total time in Parallel executor: 57.96 seconds
+  Total execution time: 67.49 seconds

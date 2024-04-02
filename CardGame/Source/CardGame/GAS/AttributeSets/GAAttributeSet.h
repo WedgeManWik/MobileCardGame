@@ -18,6 +18,7 @@ class CARDGAME_API UGAAttributeSet : public UAttributeSet
 {
 	GENERATED_BODY()
 	
+public:
     UGAAttributeSet();
 
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, Health);
@@ -39,6 +40,8 @@ class CARDGAME_API UGAAttributeSet : public UAttributeSet
 
     virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
     virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
+
+    void PostGameplayEffectExecute(const struct FGameplayEffectModCallbackData& Data) override;
 
     virtual void ClampAttributeOnChange(const FGameplayAttribute& Attribute, float& NewValue) const;
 };

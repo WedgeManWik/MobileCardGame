@@ -21,6 +21,11 @@ void UGAAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, fl
 	ClampAttributeOnChange(Attribute, NewValue);
 }
 
+void UGAAttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data)
+{
+	Super::PostGameplayEffectExecute(Data);
+}
+
 void UGAAttributeSet::ClampAttributeOnChange(const FGameplayAttribute& Attribute, float& NewValue) const
 {
 	if (Attribute == GetHealthAttribute())
