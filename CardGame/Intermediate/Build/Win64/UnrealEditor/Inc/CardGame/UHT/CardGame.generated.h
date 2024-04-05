@@ -15,7 +15,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CARDGAME_CardGame_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_janio_Documents_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGame_h
+#define CURRENT_FILE_ID FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGame_h
 
 
 #define FOREACH_ENUM_EABILITYINPUTID(op) \

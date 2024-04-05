@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "CardGame",
-			"Path": "C:\\Users\\janio\\Documents\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGame.Target.cs",
+			"Path": "D:\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "CardGameEditor",
-			"Path": "C:\\Users\\janio\\Documents\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGameEditor.Target.cs",
+			"Path": "D:\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

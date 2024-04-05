@@ -38,6 +38,18 @@ public:
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData MaxMana;
 
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData MagicAttackEffectiveness;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData MagicDefensiveResistence;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData PhysicalAttackEffectiveness;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData PhysicalDefensiveResistence;
+
     virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
     virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
 
