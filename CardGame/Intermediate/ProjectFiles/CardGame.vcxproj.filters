@@ -96,5 +96,20 @@
     <ClInclude Include="..\..\Source\CardGame\GAS\AttributeSets\GAAttributeSet.h">
       <Filter>Source\CardGame\GAS\AttributeSets</Filter>
     </ClInclude>
+    <Filter Include="Source\CardGame\GAS\ExecutionCalculations">
+      <UniqueIdentifier>{EC620DCB-58D0-3EBA-A9E6-245C782A1F2D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CardGame\GAS\ExecutionCalculations\ExecCalcMagicDamage.cpp">
+      <Filter>Source\CardGame\GAS\ExecutionCalculations</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CardGame\GAS\ExecutionCalculations\ExecCalcMagicDamage.h">
+      <Filter>Source\CardGame\GAS\ExecutionCalculations</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CardGame\GAS\ExecutionCalculations\ExecCalcPhysicalDamage.cpp">
+      <Filter>Source\CardGame\GAS\ExecutionCalculations</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CardGame\GAS\ExecutionCalculations\ExecCalcPhysicalDamage.h">
+      <Filter>Source\CardGame\GAS\ExecutionCalculations</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

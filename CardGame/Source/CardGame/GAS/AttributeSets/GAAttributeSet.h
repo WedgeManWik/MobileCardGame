@@ -25,6 +25,10 @@ public:
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxHealth);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, Mana);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxMana);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicAttackEffectiveness);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicDefensiveResistence);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalAttackEffectiveness);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalDefensiveResistence);
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData Health;
