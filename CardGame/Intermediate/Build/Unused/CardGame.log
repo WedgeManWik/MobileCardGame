@@ -13,20 +13,10 @@
   [Upgrade]
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 7.34 GB available: limiting max parallel actions to 4
-  Building 11 actions with 4 processes...
-  [1/11] Compile [x64] ExecCalcPhysicalDamage.gen.cpp
-  [2/11] Compile [x64] GAAttributeSet.cpp
-  [3/11] Compile [x64] ExecCalcPhysicalDamage.cpp
-  [4/11] Compile [x64] CardGameCharacter.cpp
-  [5/11] Compile [x64] CardGame.init.gen.cpp
-  [6/11] Compile [x64] ExecCalcMagicDamage.gen.cpp
-  [7/11] Compile [x64] ExecCalcMagicDamage.cpp
-  [8/11] Compile [x64] GAAttributeSet.gen.cpp
-  [9/11] Link [x64] UnrealEditor-CardGame.lib
-     Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.exp
-  [10/11] Link [x64] UnrealEditor-CardGame.dll
+    Requested 1.5 GB free memory per action, 6.7 GB available: limiting max parallel actions to 4
+  Building 2 actions with 2 processes...
+  [1/2] Link [x64] UnrealEditor-CardGame.dll
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
-  [11/11] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 13.95 seconds
-  Total execution time: 16.54 seconds
+  [2/2] WriteMetadata CardGameEditor.target
+  Total time in Parallel executor: 2.08 seconds
+  Total execution time: 4.87 seconds
