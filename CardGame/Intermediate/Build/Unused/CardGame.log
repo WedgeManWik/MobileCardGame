@@ -13,10 +13,10 @@
   [Upgrade]
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 6.7 GB available: limiting max parallel actions to 4
+    Requested 1.5 GB free memory per action, 7.34 GB available: limiting max parallel actions to 4
   Building 2 actions with 2 processes...
   [1/2] Link [x64] UnrealEditor-CardGame.dll
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
   [2/2] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 2.08 seconds
-  Total execution time: 4.87 seconds
+  Total time in Parallel executor: 2.01 seconds
+  Total execution time: 4.80 seconds
