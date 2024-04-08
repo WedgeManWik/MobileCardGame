@@ -3,6 +3,7 @@
   Log file: C:\Users\wikto\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\MobileCardGame).
   Creating makefile for CardGameEditor (no existing makefile)
+  Waiting for 'git status' command to complete
   Building CardGameEditor...
   Using Visual Studio 2022 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -13,10 +14,10 @@
   [Upgrade]
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 7.02 GB available: limiting max parallel actions to 4
+    Requested 1.5 GB free memory per action, 6.38 GB available: limiting max parallel actions to 4
   Building 2 actions with 2 processes...
   [1/2] Link [x64] UnrealEditor-CardGame.dll
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
   [2/2] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 1.90 seconds
-  Total execution time: 4.49 seconds
+  Total time in Parallel executor: 1.65 seconds
+  Total execution time: 7.99 seconds
