@@ -20,6 +20,11 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 	GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UGameplayEffect_NoRegister();
 	UPackage* Z_Construct_UPackage__Script_CardGame();
 // End Cross Module References
+	struct CardGameCharacter_eventOnEnergyChanged_Parms
+	{
+		float OldValue;
+		float NewValue;
+	};
 	struct CardGameCharacter_eventOnHealthChanged_Parms
 	{
 		float OldValue;
@@ -30,6 +35,14 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		float OldValue;
 		float NewValue;
 	};
+	static FName NAME_ACardGameCharacter_OnEnergyChanged = FName(TEXT("OnEnergyChanged"));
+	void ACardGameCharacter::OnEnergyChanged(float OldValue, float NewValue)
+	{
+		CardGameCharacter_eventOnEnergyChanged_Parms Parms;
+		Parms.OldValue=OldValue;
+		Parms.NewValue=NewValue;
+		ProcessEvent(FindFunctionChecked(NAME_ACardGameCharacter_OnEnergyChanged),&Parms);
+	}
 	static FName NAME_ACardGameCharacter_OnHealthChanged = FName(TEXT("OnHealthChanged"));
 	void ACardGameCharacter::OnHealthChanged(float OldValue, float NewValue)
 	{
@@ -48,6 +61,37 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 	}
 	void ACardGameCharacter::StaticRegisterNativesACardGameCharacter()
 	{
+	}
+	struct Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics
+	{
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_OldValue;
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_NewValue;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::NewProp_OldValue = { "OldValue", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(CardGameCharacter_eventOnEnergyChanged_Parms, OldValue), METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::NewProp_NewValue = { "NewValue", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(CardGameCharacter_eventOnEnergyChanged_Parms, NewValue), METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::NewProp_OldValue,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::NewProp_NewValue,
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "CardGameCharacter.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACardGameCharacter, nullptr, "OnEnergyChanged", nullptr, nullptr, sizeof(CardGameCharacter_eventOnEnergyChanged_Parms), Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_ACardGameCharacter_OnHealthChanged_Statics
 	{
@@ -151,6 +195,7 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_CardGame,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ACardGameCharacter_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ACardGameCharacter_OnEnergyChanged, "OnEnergyChanged" }, // 1148718130
 		{ &Z_Construct_UFunction_ACardGameCharacter_OnHealthChanged, "OnHealthChanged" }, // 3868920856
 		{ &Z_Construct_UFunction_ACardGameCharacter_OnManaChanged, "OnManaChanged" }, // 3691225142
 	};
@@ -245,9 +290,9 @@ void EmptyLinkFunctionForGeneratedCodeCardGameCharacter() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ACardGameCharacter, ACardGameCharacter::StaticClass, TEXT("ACardGameCharacter"), &Z_Registration_Info_UClass_ACardGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACardGameCharacter), 868350220U) },
+		{ Z_Construct_UClass_ACardGameCharacter, ACardGameCharacter::StaticClass, TEXT("ACardGameCharacter"), &Z_Registration_Info_UClass_ACardGameCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACardGameCharacter), 4185924915U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_2116940947(TEXT("/Script/CardGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_816872350(TEXT("/Script/CardGame"),
 		Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_CardGameCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

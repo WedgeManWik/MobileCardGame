@@ -86,6 +86,11 @@ void ACardGameCharacter::OnManaChangedNative(const FOnAttributeChangeData& Data)
 	OnManaChanged(Data.OldValue, Data.NewValue);
 }
 
+void ACardGameCharacter::OnEnergyChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnEnergyChanged(Data.OldValue, Data.NewValue);
+}
+
 void ACardGameCharacter::Tick(float DeltaSeconds)
 {
     Super::Tick(DeltaSeconds);
@@ -99,6 +104,7 @@ void ACardGameCharacter::BeginPlay()
 	{
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetHealthAttribute()).AddUObject(this, &ACardGameCharacter::OnHealthChangedNative);
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetManaAttribute()).AddUObject(this, &ACardGameCharacter::OnManaChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetEnergyAttribute()).AddUObject(this, &ACardGameCharacter::OnEnergyChangedNative);
 	}
 }
 

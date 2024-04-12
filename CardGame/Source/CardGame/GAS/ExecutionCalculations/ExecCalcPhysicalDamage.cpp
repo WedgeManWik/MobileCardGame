@@ -8,15 +8,15 @@ struct PhysicalDamageCapture
 {
 	DECLARE_ATTRIBUTE_CAPTUREDEF(Health);
 	DECLARE_ATTRIBUTE_CAPTUREDEF(MaxHealth);
-	DECLARE_ATTRIBUTE_CAPTUREDEF(PhysicalAttackEffectiveness);
-	DECLARE_ATTRIBUTE_CAPTUREDEF(PhysicalDefensiveResistence);
+	DECLARE_ATTRIBUTE_CAPTUREDEF(PhysicalAttack);
+	DECLARE_ATTRIBUTE_CAPTUREDEF(PhysicalDefence);
 
 	PhysicalDamageCapture()
 	{
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, Health, Target, false);
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MaxHealth, Target, false);
-		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, PhysicalAttackEffectiveness, Source, false);
-		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, PhysicalDefensiveResistence, Target, false);
+		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, PhysicalAttack, Source, false);
+		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, PhysicalDefence, Target, false);
 	}
 };
 
@@ -30,8 +30,8 @@ UExecCalcPhysicalDamage::UExecCalcPhysicalDamage()
 {
 	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().HealthDef);
 	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().MaxHealthDef);
-	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().PhysicalAttackEffectivenessDef);
-	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().PhysicalDefensiveResistenceDef);
+	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().PhysicalAttackDef);
+	RelevantAttributesToCapture.Add(GetPhysicalDamageCapture().PhysicalDefenceDef);
 }
 
 void UExecCalcPhysicalDamage::Execute_Implementation(const FGameplayEffectCustomExecutionParameters& ExecutionParams, FGameplayEffectCustomExecutionOutput& ExecutionOutput) const
@@ -56,15 +56,15 @@ void UExecCalcPhysicalDamage::Execute_Implementation(const FGameplayEffectCustom
 	float MaxHealth = 0.0f;
 	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().MaxHealthDef, EvaluationParameters, MaxHealth);
 
-	float PhysicalAttackEffectiveness = 0.0f;
-	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().PhysicalAttackEffectivenessDef, EvaluationParameters, PhysicalAttackEffectiveness);
+	float PhysicalAttack = 0.0f;
+	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().PhysicalAttackDef, EvaluationParameters, PhysicalAttack);
 
-	float PhysicalDefensiveResistence = 0.0f;
-	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().PhysicalDefensiveResistenceDef, EvaluationParameters, PhysicalDefensiveResistence);
+	float PhysicalDefence = 0.0f;
+	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().PhysicalDefenceDef, EvaluationParameters, PhysicalDefence);
 
 	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Event.Damage")), false, -1.0f), 0.0f);
 
-	float DamageMultiplier = (PhysicalAttackEffectiveness + 1.f) * ((1.f - PhysicalDefensiveResistence) + 1);
+	float DamageMultiplier = (PhysicalAttack + 1.f) * ((1.f - PhysicalDefence) + 1);
 	float DamageToDeal = BaseDamage * DamageMultiplier;
 
 	ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetPhysicalDamageCapture().HealthProperty, EGameplayModOp::Additive, -DamageToDeal));

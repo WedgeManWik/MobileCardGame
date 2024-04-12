@@ -25,10 +25,12 @@ public:
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxHealth);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, Mana);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxMana);
-    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicAttackEffectiveness);
-    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicDefensiveResistence);
-    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalAttackEffectiveness);
-    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalDefensiveResistence);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, Energy);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxEnergy);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicAttack);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicDefence);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalAttack);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalDefence);
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData Health;
@@ -43,16 +45,22 @@ public:
     FGameplayAttributeData MaxMana;
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
-    FGameplayAttributeData MagicAttackEffectiveness;
+    FGameplayAttributeData Energy;
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
-    FGameplayAttributeData MagicDefensiveResistence;
+    FGameplayAttributeData MaxEnergy;
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
-    FGameplayAttributeData PhysicalAttackEffectiveness;
+    FGameplayAttributeData MagicAttack;
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
-    FGameplayAttributeData PhysicalDefensiveResistence;
+    FGameplayAttributeData MagicDefence;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData PhysicalAttack;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData PhysicalDefence;
 
     virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
     virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;

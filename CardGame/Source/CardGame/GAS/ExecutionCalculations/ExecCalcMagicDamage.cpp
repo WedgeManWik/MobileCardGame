@@ -8,15 +8,15 @@ struct MagicDamageCapture
 {
 	DECLARE_ATTRIBUTE_CAPTUREDEF(Health);
 	DECLARE_ATTRIBUTE_CAPTUREDEF(MaxHealth);
-	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicAttackEffectiveness);
-	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicDefensiveResistence);
+	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicAttack);
+	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicDefence);
 
 	MagicDamageCapture()
 	{
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, Health, Target, false);
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MaxHealth, Target, false);
-		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicAttackEffectiveness, Source, false);
-		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicDefensiveResistence, Target, false);
+		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicAttack, Source, false);
+		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicDefence, Target, false);
 	}
 };
 
@@ -30,8 +30,8 @@ UExecCalcMagicDamage::UExecCalcMagicDamage()
 {
 	RelevantAttributesToCapture.Add(GetMagicDamageCapture().HealthDef);
 	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MaxHealthDef);
-	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicAttackEffectivenessDef);
-	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicDefensiveResistenceDef);
+	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicAttackDef);
+	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicDefenceDef);
 }
 
 void UExecCalcMagicDamage::Execute_Implementation(const FGameplayEffectCustomExecutionParameters& ExecutionParams, FGameplayEffectCustomExecutionOutput& ExecutionOutput) const
@@ -56,15 +56,15 @@ void UExecCalcMagicDamage::Execute_Implementation(const FGameplayEffectCustomExe
 	float MaxHealth = 0.0f;
 	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MaxHealthDef, EvaluationParameters, MaxHealth);
 
-	float MagicAttackEffectiveness = 0.0f;
-	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicAttackEffectivenessDef, EvaluationParameters, MagicAttackEffectiveness);
+	float MagicAttack = 0.0f;
+	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicAttackDef, EvaluationParameters, MagicAttack);
 
-	float MagicDefensiveResistence = 0.0f;
-	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicDefensiveResistenceDef, EvaluationParameters, MagicDefensiveResistence);
+	float MagicDefence = 0.0f;
+	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicDefenceDef, EvaluationParameters, MagicDefence);
 
 	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Event.Damage")), false, -1.0f), 0.0f);
 
-	float DamageMultiplier = (MagicAttackEffectiveness + 1.f) * ((1.f - MagicDefensiveResistence) + 1);
+	float DamageMultiplier = (MagicAttack + 1.f) * ((1.f - MagicDefence) + 1);
 	float DamageToDeal = BaseDamage * DamageMultiplier;
 
 	ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetMagicDamageCapture().HealthProperty, EGameplayModOp::Additive, -DamageToDeal));
