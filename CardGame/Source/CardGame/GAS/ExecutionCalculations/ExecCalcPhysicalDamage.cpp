@@ -62,7 +62,7 @@ void UExecCalcPhysicalDamage::Execute_Implementation(const FGameplayEffectCustom
 	float PhysicalDefence = 0.0f;
 	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetPhysicalDamageCapture().PhysicalDefenceDef, EvaluationParameters, PhysicalDefence);
 
-	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Event.Damage")), false, -1.0f), 0.0f);
+	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Attribute.ChangeAmount")), false, -1.0f), 0.0f);
 
 	float DamageMultiplier = (PhysicalAttack + 1.f) * ((1.f - PhysicalDefence) + 1);
 	float DamageToDeal = BaseDamage * DamageMultiplier;

@@ -10,16 +10,17 @@
   [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in CardGameEditor.Target.cs.
   [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
   [Upgrade]
-  [Adaptive Build] Excluded from CardGame unity file: CardGameCharacter.cpp, GAAttributeSet.cpp, ExecCalcMagicDamage.cpp, ExecCalcPhysicalDamage.cpp
+  [Adaptive Build] Excluded from CardGame unity file: ExecCalcMagicDamage.cpp, ExecCalcPhysicalDamage.cpp
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 7.18 GB available: limiting max parallel actions to 4
-  Building 4 actions with 4 processes...
-  [1/4] Compile [x64] CardGameCharacter.cpp
-  [2/4] Link [x64] UnrealEditor-CardGame.lib
+    Requested 1.5 GB free memory per action, 6.54 GB available: limiting max parallel actions to 4
+  Building 5 actions with 4 processes...
+  [1/5] Compile [x64] ExecCalcMagicDamage.cpp
+  [2/5] Compile [x64] ExecCalcPhysicalDamage.cpp
+  [3/5] Link [x64] UnrealEditor-CardGame.lib
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.exp
-  [3/4] Link [x64] UnrealEditor-CardGame.dll
+  [4/5] Link [x64] UnrealEditor-CardGame.dll
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
-  [4/4] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 5.74 seconds
-  Total execution time: 6.92 seconds
+  [5/5] WriteMetadata CardGameEditor.target
+  Total time in Parallel executor: 5.46 seconds
+  Total execution time: 6.85 seconds
