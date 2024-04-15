@@ -10,6 +10,7 @@ struct MagicDamageCapture
 	DECLARE_ATTRIBUTE_CAPTUREDEF(MaxHealth);
 	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicAttack);
 	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicDefence);
+	DECLARE_ATTRIBUTE_CAPTUREDEF(MagicBlock);
 
 	MagicDamageCapture()
 	{
@@ -17,6 +18,7 @@ struct MagicDamageCapture
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MaxHealth, Target, false);
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicAttack, Source, false);
 		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicDefence, Target, false);
+		DEFINE_ATTRIBUTE_CAPTUREDEF(UGAAttributeSet, MagicBlock, Target, false);
 	}
 };
 
@@ -32,6 +34,7 @@ UExecCalcMagicDamage::UExecCalcMagicDamage()
 	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MaxHealthDef);
 	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicAttackDef);
 	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicDefenceDef);
+	RelevantAttributesToCapture.Add(GetMagicDamageCapture().MagicBlockDef);
 }
 
 void UExecCalcMagicDamage::Execute_Implementation(const FGameplayEffectCustomExecutionParameters& ExecutionParams, FGameplayEffectCustomExecutionOutput& ExecutionOutput) const
@@ -62,12 +65,21 @@ void UExecCalcMagicDamage::Execute_Implementation(const FGameplayEffectCustomExe
 	float MagicDefence = 0.0f;
 	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicDefenceDef, EvaluationParameters, MagicDefence);
 
+	float MagicBlock = 0.0f;
+	ExecutionParams.AttemptCalculateCapturedAttributeMagnitude(GetMagicDamageCapture().MagicBlockDef, EvaluationParameters, MagicBlock);
+
 	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Attribute.ChangeAmount")), false, -1.0f), 0.0f);
 
 	float DamageMultiplier = (MagicAttack + 1.f) * ((1.f - MagicDefence) + 1);
 	float DamageToDeal = BaseDamage * DamageMultiplier;
 
-	ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetMagicDamageCapture().HealthProperty, EGameplayModOp::Additive, -DamageToDeal));
+	float LeftOverDamage = FMath::Max(DamageToDeal - MagicBlock, 0.f);
+	ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetMagicDamageCapture().MagicBlockProperty, EGameplayModOp::Override, FMath::Max(MagicBlock - DamageToDeal, 0.f)));
+
+	if (LeftOverDamage > 0.f)
+	{
+		ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetMagicDamageCapture().HealthProperty, EGameplayModOp::Override, FMath::Max(Health - LeftOverDamage, 0.f)));
+	}
 }
 
 

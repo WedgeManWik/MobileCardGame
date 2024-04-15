@@ -27,10 +27,14 @@ public:
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxMana);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, Energy);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MaxEnergy);
+
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicAttack);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicDefence);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalAttack);
     ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalDefence);
+
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, MagicBlock);
+    ATTRIBUTE_ACCESSORS(UGAAttributeSet, PhysicalBlock);
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData Health;
@@ -61,6 +65,12 @@ public:
 
     UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
     FGameplayAttributeData PhysicalDefence;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData MagicBlock;
+
+    UPROPERTY(BlueprintReadOnly, Category = "Attributes", Meta = (AllowPrivateAccess = true))
+    FGameplayAttributeData PhysicalBlock;
 
     virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
     virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;

@@ -70,6 +70,14 @@ void EmptyLinkFunctionForGeneratedCodeGAAttributeSet() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_PhysicalDefence_MetaData[];
 #endif
 		static const UECodeGen_Private::FStructPropertyParams NewProp_PhysicalDefence;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MagicBlock_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_MagicBlock;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_PhysicalBlock_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_PhysicalBlock;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -164,6 +172,22 @@ void EmptyLinkFunctionForGeneratedCodeGAAttributeSet() {}
 	};
 #endif
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalDefence = { "PhysicalDefence", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(UGAAttributeSet, PhysicalDefence), Z_Construct_UScriptStruct_FGameplayAttributeData, METADATA_PARAMS(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalDefence_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalDefence_MetaData)) }; // 1256614452
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicBlock_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "GAS/AttributeSets/GAAttributeSet.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicBlock = { "MagicBlock", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(UGAAttributeSet, MagicBlock), Z_Construct_UScriptStruct_FGameplayAttributeData, METADATA_PARAMS(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicBlock_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicBlock_MetaData)) }; // 1256614452
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalBlock_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "GAS/AttributeSets/GAAttributeSet.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalBlock = { "PhysicalBlock", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(UGAAttributeSet, PhysicalBlock), Z_Construct_UScriptStruct_FGameplayAttributeData, METADATA_PARAMS(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalBlock_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalBlock_MetaData)) }; // 1256614452
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UGAAttributeSet_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_Health,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MaxHealth,
@@ -175,6 +199,8 @@ void EmptyLinkFunctionForGeneratedCodeGAAttributeSet() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicDefence,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalAttack,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalDefence,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_MagicBlock,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGAAttributeSet_Statics::NewProp_PhysicalBlock,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UGAAttributeSet_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UGAAttributeSet>::IsAbstract,
@@ -213,9 +239,9 @@ void EmptyLinkFunctionForGeneratedCodeGAAttributeSet() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_GAS_AttributeSets_GAAttributeSet_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UGAAttributeSet, UGAAttributeSet::StaticClass, TEXT("UGAAttributeSet"), &Z_Registration_Info_UClass_UGAAttributeSet, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGAAttributeSet), 119913507U) },
+		{ Z_Construct_UClass_UGAAttributeSet, UGAAttributeSet::StaticClass, TEXT("UGAAttributeSet"), &Z_Registration_Info_UClass_UGAAttributeSet, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGAAttributeSet), 313472000U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_GAS_AttributeSets_GAAttributeSet_h_2723150627(TEXT("/Script/CardGame"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_GAS_AttributeSets_GAAttributeSet_h_1992421139(TEXT("/Script/CardGame"),
 		Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_GAS_AttributeSets_GAAttributeSet_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_MobileCardGame_CardGame_Source_CardGame_GAS_AttributeSets_GAAttributeSet_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

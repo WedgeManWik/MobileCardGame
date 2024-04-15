@@ -91,6 +91,16 @@ void ACardGameCharacter::OnEnergyChangedNative(const FOnAttributeChangeData& Dat
 	OnEnergyChanged(Data.OldValue, Data.NewValue);
 }
 
+void ACardGameCharacter::OnMagicBlockChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnMagicBlockChanged(Data.OldValue, Data.NewValue);
+}
+
+void ACardGameCharacter::OnPhysicalBlockChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnPhysicalBlockChanged(Data.OldValue, Data.NewValue);
+}
+
 void ACardGameCharacter::Tick(float DeltaSeconds)
 {
     Super::Tick(DeltaSeconds);
@@ -105,6 +115,8 @@ void ACardGameCharacter::BeginPlay()
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetHealthAttribute()).AddUObject(this, &ACardGameCharacter::OnHealthChangedNative);
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetManaAttribute()).AddUObject(this, &ACardGameCharacter::OnManaChangedNative);
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetEnergyAttribute()).AddUObject(this, &ACardGameCharacter::OnEnergyChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetMagicBlockAttribute()).AddUObject(this, &ACardGameCharacter::OnMagicBlockChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetPhysicalBlockAttribute()).AddUObject(this, &ACardGameCharacter::OnPhysicalBlockChangedNative);
 	}
 }
 

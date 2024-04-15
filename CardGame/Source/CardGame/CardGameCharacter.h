@@ -36,12 +36,19 @@ public:
 	void OnManaChangedNative(const FOnAttributeChangeData& Data);
 	void OnEnergyChangedNative(const FOnAttributeChangeData& Data);
 
+	void OnMagicBlockChangedNative(const FOnAttributeChangeData& Data);
+	void OnPhysicalBlockChangedNative(const FOnAttributeChangeData& Data);
+
 	UFUNCTION(BlueprintImplementableEvent)
 	void OnHealthChanged(float OldValue, float NewValue);
 	UFUNCTION(BlueprintImplementableEvent)
 	void OnManaChanged(float OldValue, float NewValue);
 	UFUNCTION(BlueprintImplementableEvent)
 	void OnEnergyChanged(float OldValue, float NewValue);
+	UFUNCTION(BlueprintImplementableEvent)
+	void OnMagicBlockChanged(float OldValue, float NewValue);
+	UFUNCTION(BlueprintImplementableEvent)
+	void OnPhysicalBlockChanged(float OldValue, float NewValue);
 
 	UPROPERTY(BlueprintReadOnly, EditDefaultsOnly, Category = "GAS")
 	TArray<TSubclassOf<class UGAGameplayAbility>> DefaultAbilities;
