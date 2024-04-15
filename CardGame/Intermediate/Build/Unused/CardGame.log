@@ -2,7 +2,7 @@
   Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CardGameEditor Win64 Development -Project="D:\GitHub\MobileCardGame\CardGame\CardGame.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\wikto\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\MobileCardGame).
-  Invalidating makefile for CardGameEditor (GAAttributeSet.cpp.obj.response modified)
+  Invalidating makefile for CardGameEditor (CardGameCharacter.cpp.obj.response modified)
   Building CardGameEditor...
   Using Visual Studio 2022 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
@@ -11,21 +11,19 @@
   [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in CardGameEditor.Target.cs.
   [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
   [Upgrade]
-  [Adaptive Build] Excluded from CardGame unity file: GAAttributeSet.cpp, ExecCalcMagicDamage.cpp, ExecCalcPhysicalDamage.cpp
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 4.63 GB available: limiting max parallel actions to 3
-  Building 9 actions with 3 processes...
-  [1/9] Compile [x64] CardGame.init.gen.cpp
-  [2/9] Compile [x64] GAAttributeSet.cpp
-  [3/9] Compile [x64] ExecCalcMagicDamage.cpp
-  [4/9] Compile [x64] ExecCalcPhysicalDamage.cpp
-  [5/9] Compile [x64] GAAttributeSet.gen.cpp
-  [6/9] Compile [x64] CardGameCharacter.cpp
-  [7/9] Link [x64] UnrealEditor-CardGame.lib
+    Requested 1.5 GB free memory per action, 6.22 GB available: limiting max parallel actions to 4
+  Building 8 actions with 4 processes...
+  [1/8] Compile [x64] CardGame.init.gen.cpp
+  [2/8] Compile [x64] CardGameCharacter.gen.cpp
+  [3/8] Compile [x64] CardGameGameMode.cpp
+  [4/8] Compile [x64] CardGameCharacter.cpp
+  [5/8] Compile [x64] CardGamePlayerController.cpp
+  [6/8] Link [x64] UnrealEditor-CardGame.lib
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.exp
-  [8/9] Link [x64] UnrealEditor-CardGame.dll
+  [7/8] Link [x64] UnrealEditor-CardGame.dll
      Creating library D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.lib and object D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\UnrealEditor-CardGame.suppressed.exp
-  [9/9] WriteMetadata CardGameEditor.target
-  Total time in Parallel executor: 16.23 seconds
-  Total execution time: 19.32 seconds
+  [8/8] WriteMetadata CardGameEditor.target
+  Total time in Parallel executor: 22.08 seconds
+  Total execution time: 25.11 seconds
