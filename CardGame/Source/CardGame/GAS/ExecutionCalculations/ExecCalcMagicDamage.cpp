@@ -70,7 +70,7 @@ void UExecCalcMagicDamage::Execute_Implementation(const FGameplayEffectCustomExe
 
 	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Attribute.ChangeAmount")), false, -1.0f), 0.0f);
 
-	float DamageMultiplier = (MagicAttack + 1.f) * ((1.f - MagicDefence) + 1);
+	float DamageMultiplier = (MagicAttack + 1.f) * (1.f - (MagicDefence * 0.5f));
 	float DamageToDeal = BaseDamage * DamageMultiplier;
 
 	float LeftOverDamage = FMath::Max(DamageToDeal - MagicBlock, 0.f);
