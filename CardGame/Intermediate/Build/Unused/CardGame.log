@@ -2,5 +2,6 @@
   Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" CardGameEditor Win64 Development -Project="D:\GitHub\MobileCardGame\CardGame\CardGame.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\wikto\AppData\Local\UnrealBuildTool\Log.txt
   Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\MobileCardGame).
+  Creating makefile for CardGameEditor (no existing makefile)
   Target is up to date
-  Total execution time: 1.46 seconds
+  Total execution time: 3.01 seconds
