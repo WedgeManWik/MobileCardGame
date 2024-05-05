@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeCardGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB23573E9,
+				0x22929083,
 				0x076215AC,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeCardGame_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_CardGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CardGame(Z_Construct_UPackage__Script_CardGame, TEXT("/Script/CardGame"), Z_Registration_Info_UPackage__Script_CardGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB23573E9, 0x076215AC));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CardGame(Z_Construct_UPackage__Script_CardGame, TEXT("/Script/CardGame"), Z_Registration_Info_UPackage__Script_CardGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x22929083, 0x076215AC));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

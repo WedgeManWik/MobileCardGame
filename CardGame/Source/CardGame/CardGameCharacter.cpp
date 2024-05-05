@@ -101,6 +101,26 @@ void ACardGameCharacter::OnPhysicalBlockChangedNative(const FOnAttributeChangeDa
 	OnPhysicalBlockChanged(Data.OldValue, Data.NewValue);
 }
 
+void ACardGameCharacter::OnMagicAttackChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnMagicAttackChanged(Data.OldValue, Data.NewValue);
+}
+
+void ACardGameCharacter::OnPhysicalAttackChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnPhysicalAttackChanged(Data.OldValue, Data.NewValue);
+}
+
+void ACardGameCharacter::OnMagicDefenceChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnMagicDefenceChanged(Data.OldValue, Data.NewValue);
+}
+
+void ACardGameCharacter::OnPhysicalDefenceChangedNative(const FOnAttributeChangeData& Data)
+{
+	OnPhysicalDefenceChanged(Data.OldValue, Data.NewValue);
+}
+
 void ACardGameCharacter::Tick(float DeltaSeconds)
 {
     Super::Tick(DeltaSeconds);
@@ -117,6 +137,10 @@ void ACardGameCharacter::BeginPlay()
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetEnergyAttribute()).AddUObject(this, &ACardGameCharacter::OnEnergyChangedNative);
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetMagicBlockAttribute()).AddUObject(this, &ACardGameCharacter::OnMagicBlockChangedNative);
 		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetPhysicalBlockAttribute()).AddUObject(this, &ACardGameCharacter::OnPhysicalBlockChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetMagicAttackAttribute()).AddUObject(this, &ACardGameCharacter::OnMagicAttackChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetPhysicalAttackAttribute()).AddUObject(this, &ACardGameCharacter::OnPhysicalAttackChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetMagicDefenceAttribute()).AddUObject(this, &ACardGameCharacter::OnMagicDefenceChangedNative);
+		AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSet->GetPhysicalDefenceAttribute()).AddUObject(this, &ACardGameCharacter::OnPhysicalDefenceChangedNative);
 	}
 }
 
