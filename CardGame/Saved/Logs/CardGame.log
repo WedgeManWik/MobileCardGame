@@ -3162,3 +3162,1334 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-19.58.55:726][241]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Scroll_Close_Orange.Scroll_Close_Orange
 [2024.05.07-19.58.55:726][241]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Scroll_Close_Green.Scroll_Close_Green
 [2024.05.07-19.58.55:726][241]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Scroll_Close_Blue.Scroll_Close_Blue
+[2024.05.07-20.01.30:250][ 74]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.30:250][ 74]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_leather4.png]
+[2024.05.07-20.01.30:251][ 74]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.07-20.01.30:252][ 74]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.07-20.01.30:252][ 74]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.07-20.01.30:253][ 74]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.07-20.01.30:253][ 74]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.07-20.01.30:254][ 74]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.07-20.01.30:255][ 74]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.07-20.01.30:255][ 74]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.07-20.01.30:256][ 74]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.05.07-20.01.30:257][ 74]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.05.07-20.01.30:257][ 74]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.05.07-20.01.30:258][ 74]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.05.07-20.01.30:258][ 74]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.05.07-20.01.30:259][ 74]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.05.07-20.01.30:260][ 74]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.05.07-20.01.30:260][ 74]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.05.07-20.01.30:261][ 74]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.05.07-20.01.30:261][ 74]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.05.07-20.01.30:261][ 74]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.05.07-20.01.30:262][ 74]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.05.07-20.01.30:262][ 74]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.05.07-20.01.30:263][ 74]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.05.07-20.01.30:264][ 74]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.05.07-20.01.30:264][ 74]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.05.07-20.01.30:265][ 74]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.05.07-20.01.30:266][ 74]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.05.07-20.01.30:266][ 74]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.05.07-20.01.30:267][ 74]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.05.07-20.01.30:267][ 74]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.05.07-20.01.30:268][ 74]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.05.07-20.01.30:269][ 74]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.05.07-20.01.30:269][ 74]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.05.07-20.01.30:270][ 74]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.05.07-20.01.30:271][ 74]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.05.07-20.01.30:271][ 74]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.05.07-20.01.30:272][ 74]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.05.07-20.01.30:272][ 74]LogInterchangeEngine: [Pending] Importing -  (38)
+[2024.05.07-20.01.30:273][ 74]LogInterchangeEngine: [Pending] Importing -  (39)
+[2024.05.07-20.01.30:274][ 74]LogInterchangeEngine: [Pending] Importing -  (40)
+[2024.05.07-20.01.30:274][ 74]LogInterchangeEngine: [Pending] Importing -  (41)
+[2024.05.07-20.01.30:275][ 74]LogInterchangeEngine: [Pending] Importing -  (42)
+[2024.05.07-20.01.30:276][ 74]LogInterchangeEngine: [Pending] Importing -  (43)
+[2024.05.07-20.01.30:276][ 74]LogInterchangeEngine: [Pending] Importing -  (44)
+[2024.05.07-20.01.30:277][ 74]LogInterchangeEngine: [Pending] Importing -  (45)
+[2024.05.07-20.01.30:277][ 74]LogInterchangeEngine: [Pending] Importing -  (46)
+[2024.05.07-20.01.30:278][ 74]LogInterchangeEngine: [Pending] Importing -  (47)
+[2024.05.07-20.01.30:279][ 74]LogInterchangeEngine: [Pending] Importing -  (48)
+[2024.05.07-20.01.30:279][ 74]LogInterchangeEngine: [Pending] Importing -  (49)
+[2024.05.07-20.01.30:280][ 74]LogInterchangeEngine: [Pending] Importing -  (50)
+[2024.05.07-20.01.30:281][ 74]LogInterchangeEngine: [Pending] Importing -  (51)
+[2024.05.07-20.01.30:281][ 74]LogInterchangeEngine: [Pending] Importing -  (52)
+[2024.05.07-20.01.30:282][ 74]LogInterchangeEngine: [Pending] Importing -  (53)
+[2024.05.07-20.01.30:283][ 74]LogInterchangeEngine: [Pending] Importing -  (54)
+[2024.05.07-20.01.30:284][ 74]LogInterchangeEngine: [Pending] Importing -  (55)
+[2024.05.07-20.01.30:284][ 74]LogInterchangeEngine: [Pending] Importing -  (56)
+[2024.05.07-20.01.30:285][ 74]LogInterchangeEngine: [Pending] Importing -  (57)
+[2024.05.07-20.01.30:285][ 74]LogInterchangeEngine: [Pending] Importing -  (58)
+[2024.05.07-20.01.30:286][ 74]LogInterchangeEngine: [Pending] Importing -  (59)
+[2024.05.07-20.01.30:295][ 74]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.30:304][ 75]LogTexture: Display: Building textures: /Game/Items/Images/armor_leather4.armor_leather4 (TFO_AutoDXT, 60x60 x1x1x1) (Required Memory Estimate: 0.630127 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.30:324][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:324][ 75]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.30:324][ 75]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_leather5.png]
+[2024.05.07-20.01.30:324][ 75]LogInterchangeEngine: [Pending] Importing -  (58)
+[2024.05.07-20.01.30:331][ 75]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.30:333][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:358][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:358][ 75]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.30:358][ 75]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_plate1.png]
+[2024.05.07-20.01.30:358][ 75]LogInterchangeEngine: [Pending] Importing -  (57)
+[2024.05.07-20.01.30:363][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:368][ 75]LogTexture: Display: Building textures: /Game/Items/Images/armor_leather5.armor_leather5 (BGRA8, 61x61 x1x1x1) (Required Memory Estimate: 0.171318 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.30:378][ 75]LogInterchangeEngine: [Pending] Importing -  (57)
+[2024.05.07-20.01.30:380][ 75]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.30:683][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:683][ 75]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.30:683][ 75]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_plate2.png]
+[2024.05.07-20.01.30:683][ 75]LogInterchangeEngine: [Pending] Importing -  (56)
+[2024.05.07-20.01.30:690][ 75]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.30:699][ 75]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:699][ 75]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.30:699][ 75]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_plate3.png]
+[2024.05.07-20.01.30:699][ 75]LogInterchangeEngine: [Pending] Importing -  (55)
+[2024.05.07-20.01.30:730][ 76]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:744][ 76]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.30:751][ 76]LogTexture: Display: Building textures: /Game/Items/Images/armor_plate2.armor_plate2 (BGRA8, 46x50 x1x1x1) (Required Memory Estimate: 0.129753 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.30:751][ 76]LogTexture: Display: Building textures: /Game/Items/Images/armor_plate1.armor_plate1 (BGRA8, 42x47 x1x1x1) (Required Memory Estimate: 0.120232 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.30:758][ 76]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.30:762][ 76]LogInterchangeEngine: [Pending] Importing -  (55)
+[2024.05.07-20.01.31:169][ 76]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:169][ 76]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:169][ 76]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_plate4.png]
+[2024.05.07-20.01.31:169][ 76]LogInterchangeEngine: [Pending] Importing -  (54)
+[2024.05.07-20.01.31:234][ 77]LogTexture: Display: Building textures: /Game/Items/Images/armor_plate3.armor_plate3 (BGRA8, 59x55 x1x1x1) (Required Memory Estimate: 0.157391 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:240][ 77]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.31:248][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:257][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:257][ 77]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:257][ 77]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_plate5.png]
+[2024.05.07-20.01.31:257][ 77]LogInterchangeEngine: [Pending] Importing -  (53)
+[2024.05.07-20.01.31:262][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:279][ 77]LogInterchangeEngine: [Pending] Importing -  (53)
+[2024.05.07-20.01.31:309][ 77]LogTexture: Display: Building textures: /Game/Items/Images/armor_plate4.armor_plate4 (BGRA8, 61x58 x1x1x1) (Required Memory Estimate: 0.165966 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:316][ 77]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.31:551][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:551][ 77]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:551][ 77]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemspotion_1.png]
+[2024.05.07-20.01.31:551][ 77]LogInterchangeEngine: [Pending] Importing -  (52)
+[2024.05.07-20.01.31:558][ 77]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.31:561][ 77]LogTexture: Display: Building textures: /Game/Items/Images/potion_1.potion_1 (BGRA8, 10x33 x1x1x1) (Required Memory Estimate: 0.072151 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:561][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:561][ 77]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:561][ 77]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemspotion_2.png]
+[2024.05.07-20.01.31:561][ 77]LogInterchangeEngine: [Pending] Importing -  (51)
+[2024.05.07-20.01.31:583][ 77]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.31:588][ 77]LogTexture: Display: Building textures: /Game/Items/Images/potion_2.potion_2 (BGRA8, 18x37 x1x1x1) (Required Memory Estimate: 0.081978 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:594][ 77]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:594][ 77]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:594][ 77]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemspotion_3.png]
+[2024.05.07-20.01.31:594][ 77]LogInterchangeEngine: [Pending] Importing -  (50)
+[2024.05.07-20.01.31:629][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:644][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:644][ 78]LogTexture: Display: Building textures: /Game/Items/Images/armor_plate5.armor_plate5 (BGRA8, 64x65 x1x1x1) (Required Memory Estimate: 0.184151 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:652][ 78]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.31:660][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:660][ 78]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.31:660][ 78]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemspotion_4.png]
+[2024.05.07-20.01.31:660][ 78]LogInterchangeEngine: [Pending] Importing -  (49)
+[2024.05.07-20.01.31:664][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:677][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.31:693][ 78]LogInterchangeEngine: [Pending] Importing -  (49)
+[2024.05.07-20.01.31:724][ 78]LogTexture: Display: Building textures: /Game/Items/Images/potion_3.potion_3 (BGRA8, 30x44 x1x1x1) (Required Memory Estimate: 0.101105 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.31:729][ 78]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:042][ 78]LogTexture: Display: Building textures: /Game/Items/Images/potion_4.potion_4 (BGRA8, 37x52 x1x1x1) (Required Memory Estimate: 0.118763 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.32:042][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:042][ 78]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:042][ 78]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_axe1.png]
+[2024.05.07-20.01.32:042][ 78]LogInterchangeEngine: [Pending] Importing -  (48)
+[2024.05.07-20.01.32:113][ 78]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:116][ 78]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:116][ 78]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:116][ 78]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_axe2.png]
+[2024.05.07-20.01.32:116][ 78]LogInterchangeEngine: [Pending] Importing -  (47)
+[2024.05.07-20.01.32:144][ 79]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:161][ 79]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:176][ 79]LogInterchangeEngine: [Pending] Importing -  (47)
+[2024.05.07-20.01.32:183][ 79]LogTexture: Display: Building textures: /Game/Items/Images/weapon_axe1.weapon_axe1 (BGRA8, 24x50 x1x1x1) (Required Memory Estimate: 0.097595 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.32:188][ 79]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:542][ 79]LogTexture: Display: Building textures: /Game/Items/Images/weapon_axe2.weapon_axe2 (BGRA8, 34x66 x1x1x1) (Required Memory Estimate: 0.128128 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.32:542][ 79]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:542][ 79]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:542][ 79]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_axe3.png]
+[2024.05.07-20.01.32:542][ 79]LogInterchangeEngine: [Pending] Importing -  (46)
+[2024.05.07-20.01.32:614][ 80]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:625][ 80]LogTexture: Display: Building textures: /Game/Items/Images/weapon_axe3.weapon_axe3 (BGRA8, 47x76 x1x1x1) (Required Memory Estimate: 0.166954 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.32:630][ 80]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:639][ 80]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:639][ 80]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:640][ 80]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_axe4.png]
+[2024.05.07-20.01.32:640][ 80]LogInterchangeEngine: [Pending] Importing -  (45)
+[2024.05.07-20.01.32:644][ 80]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:662][ 80]LogInterchangeEngine: [Pending] Importing -  (45)
+[2024.05.07-20.01.32:664][ 80]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:962][ 80]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:962][ 80]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:962][ 80]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_axe5.png]
+[2024.05.07-20.01.32:962][ 80]LogInterchangeEngine: [Pending] Importing -  (44)
+[2024.05.07-20.01.32:974][ 80]LogTexture: Display: Building textures: /Game/Items/Images/weapon_axe4.weapon_axe4 (BGRA8, 49x76 x1x1x1) (Required Memory Estimate: 0.171406 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.32:980][ 80]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.32:988][ 80]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.32:988][ 80]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.32:989][ 80]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_club1.png]
+[2024.05.07-20.01.32:989][ 80]LogInterchangeEngine: [Pending] Importing -  (43)
+[2024.05.07-20.01.33:028][ 81]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:043][ 81]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:044][ 81]LogTexture: Display: Building textures: /Game/Items/Images/weapon_axe5.weapon_axe5 (BGRA8, 49x69 x1x1x1) (Required Memory Estimate: 0.161381 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.33:047][ 81]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.33:059][ 81]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:059][ 81]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.33:059][ 81]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_club2.png]
+[2024.05.07-20.01.33:059][ 81]LogInterchangeEngine: [Pending] Importing -  (42)
+[2024.05.07-20.01.33:064][ 81]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:078][ 81]LogInterchangeEngine: [Pending] Importing -  (42)
+[2024.05.07-20.01.33:131][ 81]LogTexture: Display: Building textures: /Game/Items/Images/weapon_club1.weapon_club1 (BGRA8, 13x52 x1x1x1) (Required Memory Estimate: 0.082264 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.33:137][ 81]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.33:334][ 81]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:334][ 81]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.33:334][ 81]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_club3.png]
+[2024.05.07-20.01.33:334][ 81]LogInterchangeEngine: [Pending] Importing -  (41)
+[2024.05.07-20.01.33:397][ 82]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:406][ 82]LogTexture: Display: Building textures: /Game/Items/Images/weapon_club2.weapon_club2 (BGRA8, 26x61 x1x1x1) (Required Memory Estimate: 0.108871 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.33:412][ 82]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.33:412][ 82]LogInterchangeEngine: [Pending] Importing -  (41)
+[2024.05.07-20.01.33:731][ 82]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:731][ 82]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.33:731][ 82]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_club4.png]
+[2024.05.07-20.01.33:731][ 82]LogInterchangeEngine: [Pending] Importing -  (40)
+[2024.05.07-20.01.33:804][ 83]LogTexture: Display: Building textures: /Game/Items/Images/weapon_club3.weapon_club3 (BGRA8, 23x81 x1x1x1) (Required Memory Estimate: 0.116985 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.33:811][ 83]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.33:813][ 83]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:825][ 83]LogTexture: Display: Building textures: /Game/Items/Images/weapon_club4.weapon_club4 (BGRA8, 41x70 x1x1x1) (Required Memory Estimate: 0.146423 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.33:826][ 83]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:826][ 83]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.33:826][ 83]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_club5.png]
+[2024.05.07-20.01.33:826][ 83]LogInterchangeEngine: [Pending] Importing -  (39)
+[2024.05.07-20.01.33:830][ 83]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.33:846][ 83]LogInterchangeEngine: [Pending] Importing -  (39)
+[2024.05.07-20.01.33:903][ 83]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:104][ 83]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:104][ 83]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:104][ 83]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_spear1.png]
+[2024.05.07-20.01.34:104][ 83]LogInterchangeEngine: [Pending] Importing -  (38)
+[2024.05.07-20.01.34:132][ 83]LogTexture: Display: Building textures: /Game/Items/Images/weapon_club5.weapon_club5 (BGRA8, 39x79 x1x1x1) (Required Memory Estimate: 0.152607 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.34:138][ 83]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:156][ 84]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:156][ 84]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:156][ 84]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_spear2.png]
+[2024.05.07-20.01.34:156][ 84]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.05.07-20.01.34:161][ 84]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:177][ 84]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:194][ 84]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.05.07-20.01.34:205][ 84]LogTexture: Display: Building textures: /Game/Items/Images/weapon_spear1.weapon_spear1 (BGRA8, 74x74 x1x1x1) (Required Memory Estimate: 0.222645 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.34:209][ 84]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:485][ 84]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:485][ 84]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:485][ 84]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_spear3.png]
+[2024.05.07-20.01.34:485][ 84]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.05.07-20.01.34:515][ 84]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:520][ 84]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:520][ 84]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:520][ 84]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_spear4.png]
+[2024.05.07-20.01.34:520][ 84]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.05.07-20.01.34:561][ 85]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:577][ 85]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:583][ 85]LogTexture: Display: Building textures: /Game/Items/Images/weapon_spear3.weapon_spear3 (BGRA8, 82x82 x1x1x1) (Required Memory Estimate: 0.259144 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.34:583][ 85]LogTexture: Display: Building textures: /Game/Items/Images/weapon_spear2.weapon_spear2 (BGRA8, 75x75 x1x1x1) (Required Memory Estimate: 0.227009 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.34:591][ 85]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:595][ 85]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.05.07-20.01.34:917][ 85]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:917][ 85]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:917][ 85]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_spear5.png]
+[2024.05.07-20.01.34:917][ 85]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.05.07-20.01.34:944][ 85]LogTexture: Display: Building textures: /Game/Items/Images/weapon_spear4.weapon_spear4 (BGRA8, 82x83 x1x1x1) (Required Memory Estimate: 0.261536 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.34:953][ 85]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:958][ 85]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:958][ 85]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:958][ 85]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_sword1.png]
+[2024.05.07-20.01.34:958][ 85]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.05.07-20.01.34:964][ 85]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.34:976][ 85]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.34:976][ 85]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.34:976][ 85]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_sword2.png]
+[2024.05.07-20.01.34:976][ 85]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.05.07-20.01.35:011][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:016][ 86]LogTexture: Display: Building textures: /Game/Items/Images/weapon_spear5.weapon_spear5 (BGRA8, 83x83 x1x1x1) (Required Memory Estimate: 0.263969 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.35:017][ 86]LogTexture: Display: Building textures: /Game/Items/Images/weapon_sword1.weapon_sword1 (BGRA8, 15x51 x1x1x1) (Required Memory Estimate: 0.084873 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.35:023][ 86]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.35:027][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:027][ 86]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.35:027][ 86]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_sword3.png]
+[2024.05.07-20.01.35:027][ 86]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.05.07-20.01.35:033][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:062][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:077][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:094][ 86]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.05.07-20.01.35:099][ 86]LogTexture: Display: Building textures: /Game/Items/Images/weapon_sword2.weapon_sword2 (BGRA8, 17x62 x1x1x1) (Required Memory Estimate: 0.093319 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.35:107][ 86]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.35:491][ 86]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:491][ 86]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.35:491][ 86]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_sword4.png]
+[2024.05.07-20.01.35:491][ 86]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.05.07-20.01.35:562][ 86]LogTexture: Display: Building textures: /Game/Items/Images/weapon_sword3.weapon_sword3 (BGRA8, 27x82 x1x1x1) (Required Memory Estimate: 0.127251 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.35:568][ 87]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.35:593][ 87]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:593][ 87]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.35:593][ 87]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_sword5.png]
+[2024.05.07-20.01.35:593][ 87]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.05.07-20.01.35:599][ 87]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:612][ 87]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:627][ 87]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.05.07-20.01.35:666][ 87]LogTexture: Display: Building textures: /Game/Items/Images/weapon_sword4.weapon_sword4 (BGRA8, 65x65 x1x1x1) (Required Memory Estimate: 0.186058 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.35:673][ 87]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.35:914][ 87]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:914][ 87]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.35:914][ 87]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_wand1.png]
+[2024.05.07-20.01.35:914][ 87]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.05.07-20.01.35:960][ 88]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.35:978][ 88]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.05.07-20.01.35:990][ 88]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.36:062][ 88]LogTexture: Display: Building textures: /Game/Items/Images/weapon_sword5.weapon_sword5 (BGRA8, 42x84 x1x1x1) (Required Memory Estimate: 0.16568 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:169][ 88]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:169][ 88]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.36:169][ 88]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_wand2.png]
+[2024.05.07-20.01.36:169][ 88]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.05.07-20.01.36:176][ 88]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.36:179][ 88]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:179][ 88]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.36:179][ 88]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_wand3.png]
+[2024.05.07-20.01.36:179][ 88]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.05.07-20.01.36:230][ 89]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:241][ 89]LogTexture: Display: Building textures: /Game/Items/Images/weapon_wand2.weapon_wand2 (BGRA8, 8x58 x1x1x1) (Required Memory Estimate: 0.076057 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:241][ 89]LogTexture: Display: Building textures: /Game/Items/Images/weapon_wand1.weapon_wand1 (TFO_AutoDXT, 16x60 x1x1x1) (Required Memory Estimate: 0.213867 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:247][ 89]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.36:247][ 89]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:260][ 89]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:260][ 89]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.36:260][ 89]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_wand4.png]
+[2024.05.07-20.01.36:260][ 89]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.05.07-20.01.36:264][ 89]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:278][ 89]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.05.07-20.01.36:335][ 89]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.36:402][ 89]LogTexture: Display: Building textures: /Game/Items/Images/weapon_wand3.weapon_wand3 (BGRA8, 14x79 x1x1x1) (Required Memory Estimate: 0.094833 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:642][ 89]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:642][ 89]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.36:642][ 89]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsweapon_wand5.png]
+[2024.05.07-20.01.36:642][ 89]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.05.07-20.01.36:716][ 90]LogTexture: Display: Building textures: /Game/Items/Images/weapon_wand4.weapon_wand4 (BGRA8, 25x79 x1x1x1) (Required Memory Estimate: 0.120255 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:722][ 90]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.36:731][ 90]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:741][ 90]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:741][ 90]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.36:742][ 90]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_belt1.png]
+[2024.05.07-20.01.36:742][ 90]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.05.07-20.01.36:746][ 90]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.36:761][ 90]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.05.07-20.01.36:799][ 90]LogTexture: Display: Building textures: /Game/Items/Images/weapon_wand5.weapon_wand5 (BGRA8, 33x78 x1x1x1) (Required Memory Estimate: 0.137779 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.36:804][ 90]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.37:159][ 90]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_belt1.Accessory_belt1 (TFO_AutoDXT, 48x52 x1x1x1) (Required Memory Estimate: 0.456055 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.37:159][ 90]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:159][ 90]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.37:159][ 90]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_belt2.png]
+[2024.05.07-20.01.37:159][ 90]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.05.07-20.01.37:239][ 91]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.37:248][ 91]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:256][ 91]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:256][ 91]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.37:256][ 91]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_cape1.png]
+[2024.05.07-20.01.37:256][ 91]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.05.07-20.01.37:260][ 91]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:278][ 91]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.05.07-20.01.37:316][ 91]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_belt2.Accessory_belt2 (BGRA8, 37x25 x1x1x1) (Required Memory Estimate: 0.089546 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.37:320][ 91]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.37:640][ 91]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_cape1.Accessory_cape1 (BGRA8, 42x54 x1x1x1) (Required Memory Estimate: 0.12883 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.37:640][ 91]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:640][ 91]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.37:640][ 91]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_cape2.png]
+[2024.05.07-20.01.37:640][ 91]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.05.07-20.01.37:721][ 92]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.37:727][ 92]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:727][ 92]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.37:727][ 92]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_earring1.png]
+[2024.05.07-20.01.37:727][ 92]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.05.07-20.01.37:733][ 92]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:762][ 92]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.37:777][ 92]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.05.07-20.01.37:799][ 92]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_cape2.Accessory_cape2 (BGRA8, 48x53 x1x1x1) (Required Memory Estimate: 0.136902 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.37:804][ 92]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.38:084][ 92]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:084][ 92]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.38:084][ 92]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_earring2.png]
+[2024.05.07-20.01.38:084][ 92]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.05.07-20.01.38:130][ 93]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:144][ 93]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.05.07-20.01.38:156][ 93]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_earring1.Accessory_earring1 (BGRA8, 31x42 x1x1x1) (Required Memory Estimate: 0.100578 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.38:164][ 93]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.38:463][ 93]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.05.07-20.01.38:465][ 93]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:465][ 93]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.38:465][ 93]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_earring3.png]
+[2024.05.07-20.01.38:465][ 93]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.05.07-20.01.38:511][ 94]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:517][ 94]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_earring2.Accessory_earring2 (BGRA8, 31x32 x1x1x1) (Required Memory Estimate: 0.091499 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.38:521][ 94]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.38:526][ 94]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:526][ 94]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.38:526][ 94]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_earring3.Accessory_earring3 (BGRA8, 31x26 x1x1x1) (Required Memory Estimate: 0.08606 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.38:526][ 94]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_necklace1.png]
+[2024.05.07-20.01.38:526][ 94]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.05.07-20.01.38:530][ 94]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:547][ 94]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.05.07-20.01.38:596][ 94]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.38:979][ 94]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.38:979][ 94]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.38:979][ 94]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_necklace2.png]
+[2024.05.07-20.01.38:979][ 94]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.05.07-20.01.39:046][ 95]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:051][ 95]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_necklace1.Accessory_necklace1 (BGRA8, 50x52 x1x1x1) (Required Memory Estimate: 0.138527 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.39:057][ 95]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.39:060][ 95]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:060][ 95]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.39:060][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_necklace3.png]
+[2024.05.07-20.01.39:060][ 95]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.05.07-20.01.39:066][ 95]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:095][ 95]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.05.07-20.01.39:135][ 95]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_necklace2.Accessory_necklace2 (BGRA8, 51x46 x1x1x1) (Required Memory Estimate: 0.131111 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.39:141][ 95]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.39:509][ 95]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_necklace3.Accessory_necklace3 (BGRA8, 55x41 x1x1x1) (Required Memory Estimate: 0.128437 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.39:509][ 95]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:509][ 95]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.39:509][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_orb1.png]
+[2024.05.07-20.01.39:509][ 95]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.05.07-20.01.39:578][ 96]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:588][ 96]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.39:593][ 96]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:594][ 96]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.39:594][ 96]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_orb2.png]
+[2024.05.07-20.01.39:594][ 96]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.05.07-20.01.39:598][ 96]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:612][ 96]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.05.07-20.01.39:668][ 96]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_orb1.Accessory_orb1 (BGRA8, 33x37 x1x1x1) (Required Memory Estimate: 0.098209 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.39:673][ 96]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.39:872][ 96]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:872][ 96]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.39:872][ 96]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_ring1.png]
+[2024.05.07-20.01.39:872][ 96]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.05.07-20.01.39:929][ 97]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.39:945][ 97]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.05.07-20.01.39:952][ 97]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.40:027][ 97]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_orb2.Accessory_orb2 (BGRA8, 31x33 x1x1x1) (Required Memory Estimate: 0.092419 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.40:251][ 97]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:251][ 97]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.40:251][ 97]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_ring2.png]
+[2024.05.07-20.01.40:251][ 97]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.05.07-20.01.40:312][ 98]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:323][ 98]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_ring1.Accessory_ring1 (BGRA8, 19x20 x1x1x1) (Required Memory Estimate: 0.073601 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.40:328][ 98]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.40:330][ 98]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.05.07-20.01.40:596][ 98]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:596][ 98]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.40:596][ 98]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsAccessory_ring3.png]
+[2024.05.07-20.01.40:596][ 98]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.05.07-20.01.40:603][ 98]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.40:610][ 98]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:611][ 98]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.40:612][ 98]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_cloth1.png]
+[2024.05.07-20.01.40:612][ 98]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.07-20.01.40:648][ 99]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:660][ 99]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:672][ 99]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_ring2.Accessory_ring2 (BGRA8, 24x31 x1x1x1) (Required Memory Estimate: 0.084259 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.40:672][ 99]LogTexture: Display: Building textures: /Game/Items/Images/Accessory_ring3.Accessory_ring3 (BGRA8, 19x20 x1x1x1) (Required Memory Estimate: 0.073601 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.40:680][ 99]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.40:680][ 99]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.05.07-20.01.40:995][ 99]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.40:996][ 99]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.40:996][ 99]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_cloth2.png]
+[2024.05.07-20.01.40:996][ 99]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.07-20.01.41:048][100]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.41:060][100]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.05.07-20.01.41:070][100]LogTexture: Display: Building textures: /Game/Items/Images/armor_cloth1.armor_cloth1 (TFO_AutoDXT, 40x44 x1x1x1) (Required Memory Estimate: 0.33993 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.41:077][100]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.41:460][100]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.41:460][100]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.41:460][100]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_cloth3.png]
+[2024.05.07-20.01.41:460][100]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.07-20.01.41:528][101]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.41:533][101]LogTexture: Display: Building textures: /Game/Items/Images/armor_cloth2.armor_cloth2 (BGRA8, 39x44 x1x1x1) (Required Memory Estimate: 0.112686 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.41:539][101]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.41:543][101]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.41:543][101]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.41:543][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_cloth4.png]
+[2024.05.07-20.01.41:543][101]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.07-20.01.41:548][101]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.41:561][101]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.07-20.01.41:616][101]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.41:684][101]LogTexture: Display: Building textures: /Game/Items/Images/armor_cloth3.armor_cloth3 (BGRA8, 49x47 x1x1x1) (Required Memory Estimate: 0.129841 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.42:060][101]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:060][101]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.42:060][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_cloth5.png]
+[2024.05.07-20.01.42:060][101]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.07-20.01.42:129][102]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:133][102]LogTexture: Display: Building textures: /Game/Items/Images/armor_cloth4.armor_cloth4 (BGRA8, 53x48 x1x1x1) (Required Memory Estimate: 0.136902 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.42:142][102]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.42:146][102]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.07-20.01.42:442][102]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:442][102]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.42:442][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_leather1.png]
+[2024.05.07-20.01.42:442][102]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.07-20.01.42:494][103]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:510][103]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.07-20.01.42:517][103]LogTexture: Display: Building textures: /Game/Items/Images/armor_cloth5.armor_cloth5 (BGRA8, 60x55 x1x1x1) (Required Memory Estimate: 0.159012 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.42:525][103]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.42:799][103]LogTexture: Display: Building textures: /Game/Items/Images/armor_leather1.armor_leather1 (BGRA8, 47x46 x1x1x1) (Required Memory Estimate: 0.125717 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.42:799][103]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:799][103]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.42:799][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_leather2.png]
+[2024.05.07-20.01.42:799][103]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.07-20.01.42:831][104]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.42:842][104]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:842][104]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.42:842][104]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/wikto/.../Card RPG itemsarmor_leather3.png]
+[2024.05.07-20.01.42:848][104]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:861][104]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.42:878][104]LogInterchangeEngine: [Pending] Importing
+[2024.05.07-20.01.42:903][104]LogTexture: Display: Building textures: /Game/Items/Images/armor_leather2.armor_leather2 (BGRA8, 30x47 x1x1x1) (Required Memory Estimate: 0.103737 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.42:909][104]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.07-20.01.43:357][104]LogTexture: Display: Building textures: /Game/Items/Images/armor_leather3.armor_leather3 (BGRA8, 55x49 x1x1x1) (Required Memory Estimate: 0.141312 MB), EncodeSpeed: Fast
+[2024.05.07-20.01.43:945][104]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.43:995][105]LogInterchangeEngine: [Success] Import Done
+[2024.05.07-20.01.55:704][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.07-20.01.55:718][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-20.01.55:767][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/DT_Items" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/DT_Items.uasset" SILENT=true
+[2024.05.07-20.01.55:768][769]LogSavePackage: Moving output files for package: /Game/Items/DT_Items
+[2024.05.07-20.01.55:769][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/DT_Items13E037D4416367F0E7452F801A34BE9E.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/DT_Items.uasset'
+[2024.05.07-20.01.55:773][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_leather4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather4.uasset" SILENT=true
+[2024.05.07-20.01.55:775][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_leather4
+[2024.05.07-20.01.55:775][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_leather4BC7948AD45D88379EEDA91AB58D90F56.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather4.uasset'
+[2024.05.07-20.01.55:779][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_leather5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather5.uasset" SILENT=true
+[2024.05.07-20.01.55:782][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_leather5
+[2024.05.07-20.01.55:782][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_leather511B2FD59471C9F25A28DECB2327519EE.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather5.uasset'
+[2024.05.07-20.01.55:785][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_plate1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate1.uasset" SILENT=true
+[2024.05.07-20.01.55:787][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_plate1
+[2024.05.07-20.01.55:788][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_plate183B0F2EB46D01E388B4C3F8AD516B6B5.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate1.uasset'
+[2024.05.07-20.01.55:790][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_plate2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate2.uasset" SILENT=true
+[2024.05.07-20.01.55:792][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_plate2
+[2024.05.07-20.01.55:792][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_plate21EF5B7CC47652B833BAF5EB0F0927810.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate2.uasset'
+[2024.05.07-20.01.55:796][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_plate3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate3.uasset" SILENT=true
+[2024.05.07-20.01.55:798][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_plate3
+[2024.05.07-20.01.55:799][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_plate3B3CB181A4974E6882C9EA784CBED092B.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate3.uasset'
+[2024.05.07-20.01.55:802][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_plate4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate4.uasset" SILENT=true
+[2024.05.07-20.01.55:804][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_plate4
+[2024.05.07-20.01.55:805][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_plate499C0283B48B904ACCFDF9AAA8EBA6F11.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate4.uasset'
+[2024.05.07-20.01.55:808][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_plate5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate5.uasset" SILENT=true
+[2024.05.07-20.01.55:811][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_plate5
+[2024.05.07-20.01.55:811][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_plate5EAA602124172E4009035129C36359B9C.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_plate5.uasset'
+[2024.05.07-20.01.55:814][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/potion_1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_1.uasset" SILENT=true
+[2024.05.07-20.01.55:816][769]LogSavePackage: Moving output files for package: /Game/Items/Images/potion_1
+[2024.05.07-20.01.55:816][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/potion_11CD157594872276E6745BCB9923C39C9.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_1.uasset'
+[2024.05.07-20.01.55:819][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/potion_2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_2.uasset" SILENT=true
+[2024.05.07-20.01.55:822][769]LogSavePackage: Moving output files for package: /Game/Items/Images/potion_2
+[2024.05.07-20.01.55:822][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/potion_22E57D2B44FADDFB53699E9907624BBCB.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_2.uasset'
+[2024.05.07-20.01.55:826][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/potion_3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_3.uasset" SILENT=true
+[2024.05.07-20.01.55:828][769]LogSavePackage: Moving output files for package: /Game/Items/Images/potion_3
+[2024.05.07-20.01.55:828][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/potion_319EE7C304F7CBD8B2A7BEE89CEB0FF6A.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_3.uasset'
+[2024.05.07-20.01.55:831][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/potion_4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_4.uasset" SILENT=true
+[2024.05.07-20.01.55:833][769]LogSavePackage: Moving output files for package: /Game/Items/Images/potion_4
+[2024.05.07-20.01.55:833][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/potion_422AB8C62444FBB505AE61489090FAF78.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/potion_4.uasset'
+[2024.05.07-20.01.55:836][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_axe1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe1.uasset" SILENT=true
+[2024.05.07-20.01.55:839][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_axe1
+[2024.05.07-20.01.55:839][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_axe1EA44E3AE4367D95A53BEE7B0B4DEC654.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe1.uasset'
+[2024.05.07-20.01.55:842][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_axe2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe2.uasset" SILENT=true
+[2024.05.07-20.01.55:845][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_axe2
+[2024.05.07-20.01.55:845][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_axe2F7B177F14771F2C976BB039C90893CCD.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe2.uasset'
+[2024.05.07-20.01.55:848][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_axe3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe3.uasset" SILENT=true
+[2024.05.07-20.01.55:850][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_axe3
+[2024.05.07-20.01.55:850][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_axe310B0BA684238A03F1AB16A931C6F8563.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe3.uasset'
+[2024.05.07-20.01.55:853][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_axe4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe4.uasset" SILENT=true
+[2024.05.07-20.01.55:856][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_axe4
+[2024.05.07-20.01.55:856][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_axe4E7480E5E4FB3344E510CD3B2366455A8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe4.uasset'
+[2024.05.07-20.01.55:859][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_axe5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe5.uasset" SILENT=true
+[2024.05.07-20.01.55:861][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_axe5
+[2024.05.07-20.01.55:861][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_axe5F8525870465F59C55DA7FAB99E436FC8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_axe5.uasset'
+[2024.05.07-20.01.55:865][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_club1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club1.uasset" SILENT=true
+[2024.05.07-20.01.55:867][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_club1
+[2024.05.07-20.01.55:867][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_club1EBC31EFA4B07846C07EF069C9CED03A0.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club1.uasset'
+[2024.05.07-20.01.55:870][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_club2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club2.uasset" SILENT=true
+[2024.05.07-20.01.55:874][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_club2
+[2024.05.07-20.01.55:874][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_club2BD8231774E8BAA538D8823ADE8F9B5B6.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club2.uasset'
+[2024.05.07-20.01.55:877][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_club3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club3.uasset" SILENT=true
+[2024.05.07-20.01.55:879][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_club3
+[2024.05.07-20.01.55:879][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_club3F385359D4FAEA306B8CC70887090CE94.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club3.uasset'
+[2024.05.07-20.01.55:882][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_club4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club4.uasset" SILENT=true
+[2024.05.07-20.01.55:885][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_club4
+[2024.05.07-20.01.55:885][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_club40144BBDD45C20623C762DAB56EC4BF06.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club4.uasset'
+[2024.05.07-20.01.55:889][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_club5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club5.uasset" SILENT=true
+[2024.05.07-20.01.55:891][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_club5
+[2024.05.07-20.01.55:892][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_club59B8A00BE4EA7290C558BD1894344AA39.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_club5.uasset'
+[2024.05.07-20.01.55:894][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_spear1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear1.uasset" SILENT=true
+[2024.05.07-20.01.55:897][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_spear1
+[2024.05.07-20.01.55:897][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_spear1AE6019B24FC64F88760040A0A15BC10D.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear1.uasset'
+[2024.05.07-20.01.55:900][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_spear2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear2.uasset" SILENT=true
+[2024.05.07-20.01.55:902][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_spear2
+[2024.05.07-20.01.55:902][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_spear2A034491A40B59994DA242A834D948D3D.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear2.uasset'
+[2024.05.07-20.01.55:906][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_spear3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear3.uasset" SILENT=true
+[2024.05.07-20.01.55:908][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_spear3
+[2024.05.07-20.01.55:908][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_spear32A1C5F23458FE18209557A86ADCD6C05.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear3.uasset'
+[2024.05.07-20.01.55:912][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_spear4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear4.uasset" SILENT=true
+[2024.05.07-20.01.55:914][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_spear4
+[2024.05.07-20.01.55:914][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_spear44E213CCE493073DF858372BF2CC45E95.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear4.uasset'
+[2024.05.07-20.01.55:918][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_spear5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear5.uasset" SILENT=true
+[2024.05.07-20.01.55:921][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_spear5
+[2024.05.07-20.01.55:921][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_spear5303FC5D249AD954BD8C5F78B85FC802F.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_spear5.uasset'
+[2024.05.07-20.01.55:924][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_sword1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword1.uasset" SILENT=true
+[2024.05.07-20.01.55:927][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_sword1
+[2024.05.07-20.01.55:927][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_sword147D0978141251B9C5574A0A9E4257F72.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword1.uasset'
+[2024.05.07-20.01.55:930][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_sword2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword2.uasset" SILENT=true
+[2024.05.07-20.01.55:933][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_sword2
+[2024.05.07-20.01.55:933][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_sword23D2C3E5F43184576F697F3A74E73AD31.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword2.uasset'
+[2024.05.07-20.01.55:936][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_sword3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword3.uasset" SILENT=true
+[2024.05.07-20.01.55:939][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_sword3
+[2024.05.07-20.01.55:939][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_sword396C9164443FBB132A9B1ADA2E147509B.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword3.uasset'
+[2024.05.07-20.01.55:942][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_sword4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword4.uasset" SILENT=true
+[2024.05.07-20.01.55:944][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_sword4
+[2024.05.07-20.01.55:944][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_sword44453E6244805C4BBC08D6BA78C350CC8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword4.uasset'
+[2024.05.07-20.01.55:948][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_sword5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword5.uasset" SILENT=true
+[2024.05.07-20.01.55:950][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_sword5
+[2024.05.07-20.01.55:950][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_sword527EDB9FE409ACB137663AF8A35070914.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_sword5.uasset'
+[2024.05.07-20.01.55:954][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_wand1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand1.uasset" SILENT=true
+[2024.05.07-20.01.55:956][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_wand1
+[2024.05.07-20.01.55:956][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_wand115D4A1334328EF1B83AD71B27AE2F7F8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand1.uasset'
+[2024.05.07-20.01.55:959][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_wand2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand2.uasset" SILENT=true
+[2024.05.07-20.01.55:962][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_wand2
+[2024.05.07-20.01.55:962][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_wand28C5B13A4453783206523BB9854C51AB8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand2.uasset'
+[2024.05.07-20.01.55:965][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_wand3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand3.uasset" SILENT=true
+[2024.05.07-20.01.55:968][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_wand3
+[2024.05.07-20.01.55:968][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_wand31EAB8F1B4A5E49AAF5EE4F9591E6463F.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand3.uasset'
+[2024.05.07-20.01.55:971][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_wand4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand4.uasset" SILENT=true
+[2024.05.07-20.01.55:974][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_wand4
+[2024.05.07-20.01.55:974][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_wand488447A844294D20C935C0B94069802E4.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand4.uasset'
+[2024.05.07-20.01.55:977][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/weapon_wand5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand5.uasset" SILENT=true
+[2024.05.07-20.01.55:980][769]LogSavePackage: Moving output files for package: /Game/Items/Images/weapon_wand5
+[2024.05.07-20.01.55:980][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/weapon_wand5757230B7475BB3B1EED81C9AC0887F24.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/weapon_wand5.uasset'
+[2024.05.07-20.01.55:983][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_belt1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_belt1.uasset" SILENT=true
+[2024.05.07-20.01.55:985][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_belt1
+[2024.05.07-20.01.55:985][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_belt1A767F7BF47AF6438809528B13A3B26D1.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_belt1.uasset'
+[2024.05.07-20.01.55:988][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_belt2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_belt2.uasset" SILENT=true
+[2024.05.07-20.01.55:991][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_belt2
+[2024.05.07-20.01.55:991][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_belt23B68B3F449512EDB920BFEB07AE59DA9.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_belt2.uasset'
+[2024.05.07-20.01.55:995][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_cape1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_cape1.uasset" SILENT=true
+[2024.05.07-20.01.55:998][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_cape1
+[2024.05.07-20.01.55:998][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_cape148D19FDB494F5D27F89E3BAA7118BFC4.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_cape1.uasset'
+[2024.05.07-20.01.56:002][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_cape2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_cape2.uasset" SILENT=true
+[2024.05.07-20.01.56:004][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_cape2
+[2024.05.07-20.01.56:004][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_cape2BD44EA6843957256F7BC97BFF7D66FB4.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_cape2.uasset'
+[2024.05.07-20.01.56:007][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_earring1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring1.uasset" SILENT=true
+[2024.05.07-20.01.56:010][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_earring1
+[2024.05.07-20.01.56:010][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_earring1A29F1A6444A46B62C4E4029C1A6784D7.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring1.uasset'
+[2024.05.07-20.01.56:013][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_earring2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring2.uasset" SILENT=true
+[2024.05.07-20.01.56:016][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_earring2
+[2024.05.07-20.01.56:016][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_earring2EABC657B411E6308C3A63688977B1281.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring2.uasset'
+[2024.05.07-20.01.56:019][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_earring3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring3.uasset" SILENT=true
+[2024.05.07-20.01.56:021][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_earring3
+[2024.05.07-20.01.56:021][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_earring300D1F92C41F1AFB2D6BA9391DF10F927.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_earring3.uasset'
+[2024.05.07-20.01.56:024][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_necklace1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace1.uasset" SILENT=true
+[2024.05.07-20.01.56:027][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_necklace1
+[2024.05.07-20.01.56:027][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_necklace15F0F662546CA7EE0A87583B14FB43879.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace1.uasset'
+[2024.05.07-20.01.56:030][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_necklace2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace2.uasset" SILENT=true
+[2024.05.07-20.01.56:032][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_necklace2
+[2024.05.07-20.01.56:032][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_necklace2E695C3674E897CB3585713A5F64EC1F8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace2.uasset'
+[2024.05.07-20.01.56:035][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_necklace3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace3.uasset" SILENT=true
+[2024.05.07-20.01.56:038][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_necklace3
+[2024.05.07-20.01.56:038][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_necklace3201CEA604B4CE37D7EFF888674B9ED48.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_necklace3.uasset'
+[2024.05.07-20.01.56:041][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_orb1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_orb1.uasset" SILENT=true
+[2024.05.07-20.01.56:044][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_orb1
+[2024.05.07-20.01.56:044][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_orb1E788113D45BC374681697E87FA40FBC8.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_orb1.uasset'
+[2024.05.07-20.01.56:047][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_orb2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_orb2.uasset" SILENT=true
+[2024.05.07-20.01.56:049][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_orb2
+[2024.05.07-20.01.56:049][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_orb2A1BAE6D7438835D96C9ED198F617772E.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_orb2.uasset'
+[2024.05.07-20.01.56:052][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_ring1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring1.uasset" SILENT=true
+[2024.05.07-20.01.56:055][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_ring1
+[2024.05.07-20.01.56:055][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_ring19A57DF3C499526FB244C1BA85CDE40C0.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring1.uasset'
+[2024.05.07-20.01.56:059][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_ring2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring2.uasset" SILENT=true
+[2024.05.07-20.01.56:061][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_ring2
+[2024.05.07-20.01.56:061][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_ring20E047AD943083CF98CE7378E15971650.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring2.uasset'
+[2024.05.07-20.01.56:064][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/Accessory_ring3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring3.uasset" SILENT=true
+[2024.05.07-20.01.56:066][769]LogSavePackage: Moving output files for package: /Game/Items/Images/Accessory_ring3
+[2024.05.07-20.01.56:066][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/Accessory_ring3E7B84E4B473BC1912510658BDAC29507.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/Accessory_ring3.uasset'
+[2024.05.07-20.01.56:069][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_cloth1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth1.uasset" SILENT=true
+[2024.05.07-20.01.56:072][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_cloth1
+[2024.05.07-20.01.56:072][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_cloth19C75D0064AABCD31E65E3EB29C60B8CD.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth1.uasset'
+[2024.05.07-20.01.56:075][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_cloth2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth2.uasset" SILENT=true
+[2024.05.07-20.01.56:078][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_cloth2
+[2024.05.07-20.01.56:078][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_cloth270579118420B1F43661DC287898B0456.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth2.uasset'
+[2024.05.07-20.01.56:081][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_cloth3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth3.uasset" SILENT=true
+[2024.05.07-20.01.56:083][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_cloth3
+[2024.05.07-20.01.56:083][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_cloth34D9820FC4E8DDA0D0592F580DDD4D60C.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth3.uasset'
+[2024.05.07-20.01.56:086][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_cloth4" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth4.uasset" SILENT=true
+[2024.05.07-20.01.56:089][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_cloth4
+[2024.05.07-20.01.56:089][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_cloth45AFFC8584712497014374FA78BC42222.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth4.uasset'
+[2024.05.07-20.01.56:092][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_cloth5" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth5.uasset" SILENT=true
+[2024.05.07-20.01.56:095][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_cloth5
+[2024.05.07-20.01.56:095][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_cloth5208DFC8149B51D6C34B8F9B86202688F.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_cloth5.uasset'
+[2024.05.07-20.01.56:098][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_leather1" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather1.uasset" SILENT=true
+[2024.05.07-20.01.56:101][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_leather1
+[2024.05.07-20.01.56:101][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_leather166FFE117464DC97B31156A82541EAA49.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather1.uasset'
+[2024.05.07-20.01.56:104][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_leather2" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather2.uasset" SILENT=true
+[2024.05.07-20.01.56:106][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_leather2
+[2024.05.07-20.01.56:107][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_leather2151277E64D30C343176CA798563A1ACE.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather2.uasset'
+[2024.05.07-20.01.56:110][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Images/armor_leather3" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather3.uasset" SILENT=true
+[2024.05.07-20.01.56:112][769]LogSavePackage: Moving output files for package: /Game/Items/Images/armor_leather3
+[2024.05.07-20.01.56:112][769]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/armor_leather3FCD97E0846B0574C7BA0998C17C4F000.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/Images/armor_leather3.uasset'
+[2024.05.07-20.01.56:123][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 405 ms (total: 2.34 sec)
+[2024.05.07-20.01.56:132][769]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.07-20.01.56:132][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_wand1.weapon_wand1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_sword5.weapon_sword5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_sword4.weapon_sword4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_sword3.weapon_sword3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_sword2.weapon_sword2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_sword1.weapon_sword1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_spear5.weapon_spear5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_spear4.weapon_spear4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_spear3.weapon_spear3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_spear2.weapon_spear2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_spear1.weapon_spear1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_club5.weapon_club5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_club4.weapon_club4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_club3.weapon_club3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_club2.weapon_club2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_club1.weapon_club1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_axe5.weapon_axe5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_axe4.weapon_axe4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_axe3.weapon_axe3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_axe2.weapon_axe2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_axe1.weapon_axe1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/potion_4.potion_4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/potion_3.potion_3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/potion_2.potion_2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/potion_1.potion_1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_plate5.armor_plate5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_plate4.armor_plate4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_plate3.armor_plate3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_plate2.armor_plate2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_plate1.armor_plate1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_leather5.armor_leather5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_leather4.armor_leather4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Items/DT_Items.DT_Items
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_leather3.armor_leather3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_leather2.armor_leather2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_leather1.armor_leather1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_cloth5.armor_cloth5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_cloth4.armor_cloth4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_cloth3.armor_cloth3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_cloth2.armor_cloth2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/armor_cloth1.armor_cloth1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_ring3.Accessory_ring3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_ring2.Accessory_ring2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_ring1.Accessory_ring1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_orb2.Accessory_orb2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_orb1.Accessory_orb1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_necklace3.Accessory_necklace3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_necklace2.Accessory_necklace2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_necklace1.Accessory_necklace1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_earring3.Accessory_earring3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_earring2.Accessory_earring2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_earring1.Accessory_earring1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_cape2.Accessory_cape2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_cape1.Accessory_cape1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_belt2.Accessory_belt2
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/Accessory_belt1.Accessory_belt1
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_wand5.weapon_wand5
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_wand4.weapon_wand4
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_wand3.weapon_wand3
+[2024.05.07-20.01.56:133][769]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Items/Images/weapon_wand2.weapon_wand2
+[2024.05.07-20.02.04:493][365]LogSlate: Took 0.000822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.07-20.02.39:492][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-20.02.39:552][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/DT_Items" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/Items/DT_Items.uasset" SILENT=true
+[2024.05.07-20.02.39:553][ 11]LogSavePackage: Moving output files for package: /Game/Items/DT_Items
+[2024.05.07-20.02.39:553][ 11]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/DT_Items7E26EE184938CA9E19476B9CAB515596.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/Items/DT_Items.uasset'
+[2024.05.07-20.02.39:564][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.41 sec)
+[2024.05.07-20.02.39:572][ 11]AssetCheck: New page: Asset Save: DT_Items
+[2024.05.07-20.02.39:572][ 11]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Items/DT_Items.DT_Items
+[2024.05.07-20.03.20:739][169]LogSlate: Window 'DT_Items' being destroyed
+[2024.05.07-20.03.22:365][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-20.03.22:417][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/MainMenu" FILE="../../../../GitHub/MobileCardGame/CardGame/Content/TopDown/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-20.03.22:438][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.07-20.03.22:449][312]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/MainMenu
+[2024.05.07-20.03.22:449][312]LogSavePackage: Moving '../../../../GitHub/MobileCardGame/CardGame/Saved/MainMenu5C64CE3645C986A41FA9F7951804EE98.tmp' to '../../../../GitHub/MobileCardGame/CardGame/Content/TopDown/Maps/MainMenu.umap'
+[2024.05.07-20.03.22:461][312]LogFileHelpers: Saving map 'MainMenu' took 0.046
+[2024.05.07-20.03.22:472][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.51 sec)
+[2024.05.07-20.03.22:479][312]AssetCheck: New page: Asset Save: MainMenu
+[2024.05.07-20.03.22:479][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/MainMenu.MainMenu
+[2024.05.07-20.03.23:522][410]LogViewport: Scene viewport resized to 1504x432, mode Windowed.
+[2024.05.07-20.03.23:561][412]LogViewport: Scene viewport resized to 1504x393, mode Windowed.
+[2024.05.07-20.03.23:601][414]LogViewport: Scene viewport resized to 1504x315, mode Windowed.
+[2024.05.07-20.03.23:654][416]LogViewport: Scene viewport resized to 1504x280, mode Windowed.
+[2024.05.07-20.03.23:706][417]LogViewport: Scene viewport resized to 1504x273, mode Windowed.
+[2024.05.07-20.03.25:230][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.07-20.03.25:232][546]LogStall: Shutdown...
+[2024.05.07-20.03.25:236][546]LogStall: Shutdown complete.
+[2024.05.07-20.03.25:321][546]LogSlate: Window 'CardGame - Unreal Editor' being destroyed
+[2024.05.07-20.03.25:400][547]Cmd: QUIT_EDITOR
+[2024.05.07-20.03.25:400][547]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.07-20.03.25:404][547]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.07-20.03.25:405][547]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.07-20.03.25:405][547]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.07-20.03.25:407][547]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-20.03.25:408][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-20.03.25:412][547]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.07-20.03.25:419][547]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.07-20.03.25:644][547]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.07-20.03.25:644][547]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.07-20.03.25:644][547]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2024.05.07-20.03.25:645][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.07-20.03.25:646][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.07-20.03.25:648][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.07-20.03.25:656][547]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.07-20.03.25:660][547]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.07-20.03.25:660][547]LogExit: Preparing to exit.
+[2024.05.07-20.03.25:699][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.07-20.03.26:244][547]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.07-20.03.26:264][547]LogExit: Editor shut down
+[2024.05.07-20.03.26:266][547]LogExit: Transaction tracking system shut down
+[2024.05.07-20.03.26:552][547]LogExit: Object subsystem successfully closed.
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: ================================================
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.07-20.03.26:565][547]LogShaderCompilers: Display: ================================================
+[2024.05.07-20.03.26:661][547]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.07-20.03.26:683][547]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.07-20.03.26:750][547]LogModuleManager: Shutting down and abandoning module DataTableEditor (1037)
+[2024.05.07-20.03.26:750][547]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1035)
+[2024.05.07-20.03.26:750][547]LogModuleManager: Shutting down and abandoning module SceneOutliner (1033)
+[2024.05.07-20.03.26:750][547]LogModuleManager: Shutting down and abandoning module AddContentDialog (1031)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1030)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1027)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module StatusBar (1025)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1023)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1021)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module StatsViewer (1019)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1017)
+[2024.05.07-20.03.26:751][547]LogModuleManager: Shutting down and abandoning module AutomationWorker (1015)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1013)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1011)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1009)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1007)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module WebMMedia (1005)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1003)
+[2024.05.07-20.03.26:752][547]LogModuleManager: Shutting down and abandoning module MediaIOEditor (1001)
+[2024.05.07-20.03.26:753][547]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (999)
+[2024.05.07-20.03.26:753][547]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (997)
+[2024.05.07-20.03.26:753][547]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (995)
+[2024.05.07-20.03.26:754][547]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (993)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (991)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (989)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (987)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (985)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module SmartSnapping (983)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module TextureAlignMode (981)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module BspMode (979)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module GeometryMode (977)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (975)
+[2024.05.07-20.03.26:755][547]LogModuleManager: Shutting down and abandoning module WaveTableEditor (973)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (971)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module GooglePADEditor (969)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (967)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module SequenceRecorder (966)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (963)
+[2024.05.07-20.03.26:756][547]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (961)
+[2024.05.07-20.03.26:757][547]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (959)
+[2024.05.07-20.03.26:757][547]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (957)
+[2024.05.07-20.03.26:757][547]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (955)
+[2024.05.07-20.03.26:759][547]LogModuleManager: Shutting down and abandoning module IKRigEditor (953)
+[2024.05.07-20.03.26:760][547]LogModuleManager: Shutting down and abandoning module ControlRigEditor (951)
+[2024.05.07-20.03.26:762][547]LogModuleManager: Shutting down and abandoning module PlanarCut (949)
+[2024.05.07-20.03.26:762][547]LogModuleManager: Shutting down and abandoning module FractureEngine (947)
+[2024.05.07-20.03.26:762][547]LogModuleManager: Shutting down and abandoning module CharacterAI (945)
+[2024.05.07-20.03.26:762][547]LogModuleManager: Shutting down and abandoning module SessionServices (943)
+[2024.05.07-20.03.26:762][547]LogModuleManager: Shutting down and abandoning module MeshPaint (941)
+[2024.05.07-20.03.26:763][547]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (939)
+[2024.05.07-20.03.26:763][547]LogModuleManager: Shutting down and abandoning module PlacementMode (938)
+[2024.05.07-20.03.26:763][547]LogModuleManager: Shutting down and abandoning module FoliageEdit (935)
+[2024.05.07-20.03.26:764][547]LogModuleManager: Shutting down and abandoning module LandscapeEditor (933)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (931)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module ActorPickerMode (929)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module ViewportSnapping (927)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module ViewportInteraction (925)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module ClothPainter (923)
+[2024.05.07-20.03.26:766][547]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (922)
+[2024.05.07-20.03.26:767][547]LogModuleManager: Shutting down and abandoning module LogVisualizer (919)
+[2024.05.07-20.03.26:768][547]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (917)
+[2024.05.07-20.03.26:769][547]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (915)
+[2024.05.07-20.03.26:769][547]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (914)
+[2024.05.07-20.03.26:769][547]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (912)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (909)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (907)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (905)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (903)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (901)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (899)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module AnimationSettings (897)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (895)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module CSVtoSVG (893)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (891)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module EditorConfig (889)
+[2024.05.07-20.03.27:228][547]LogModuleManager: Shutting down and abandoning module EditorFramework (887)
+[2024.05.07-20.03.27:229][547]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (885)
+[2024.05.07-20.03.27:230][547]LogModuleManager: Shutting down and abandoning module TraceInsights (883)
+[2024.05.07-20.03.27:232][547]MemoryProfiler: Shutdown
+[2024.05.07-20.03.27:233][547]NetworkingProfiler: Shutdown
+[2024.05.07-20.03.27:233][547]LoadingProfiler: Shutdown
+[2024.05.07-20.03.27:233][547]TimingProfiler: Shutdown
+[2024.05.07-20.03.27:235][547]LogModuleManager: Shutting down and abandoning module TraceServices (882)
+[2024.05.07-20.03.27:236][547]LogModuleManager: Shutting down and abandoning module TraceAnalysis (881)
+[2024.05.07-20.03.27:236][547]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (877)
+[2024.05.07-20.03.27:236][547]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (876)
+[2024.05.07-20.03.27:237][547]LogModuleManager: Shutting down and abandoning module InputBindingEditor (873)
+[2024.05.07-20.03.27:237][547]LogModuleManager: Shutting down and abandoning module MergeActors (871)
+[2024.05.07-20.03.27:237][547]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (869)
+[2024.05.07-20.03.27:237][547]LogModuleManager: Shutting down and abandoning module LocalizationService (868)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module HardwareTargeting (865)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (863)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module UndoHistory (861)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module XmlParser (859)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module Blutility (857)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (855)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (854)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (851)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (850)
+[2024.05.07-20.03.27:238][547]LogModuleManager: Shutting down and abandoning module SettingsEditor (847)
+[2024.05.07-20.03.27:239][547]LogModuleManager: Shutting down and abandoning module ProjectLauncher (845)
+[2024.05.07-20.03.27:239][547]LogModuleManager: Shutting down and abandoning module SessionFrontend (843)
+[2024.05.07-20.03.27:239][547]LogModuleManager: Shutting down and abandoning module ProfilerClient (841)
+[2024.05.07-20.03.27:239][547]LogModuleManager: Shutting down and abandoning module DeviceManager (839)
+[2024.05.07-20.03.27:240][547]LogModuleManager: Shutting down and abandoning module AutomationController (837)
+[2024.05.07-20.03.27:241][547]LogModuleManager: Shutting down and abandoning module AutomationWindow (835)
+[2024.05.07-20.03.27:242][547]LogModuleManager: Shutting down and abandoning module Layers (833)
+[2024.05.07-20.03.27:243][547]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (831)
+[2024.05.07-20.03.27:243][547]LogModuleManager: Shutting down and abandoning module DetailCustomizations (829)
+[2024.05.07-20.03.27:243][547]LogModuleManager: Shutting down and abandoning module PackagesDialog (827)
+[2024.05.07-20.03.27:243][547]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (825)
+[2024.05.07-20.03.27:244][547]LogModuleManager: Shutting down and abandoning module Persona (823)
+[2024.05.07-20.03.27:245][547]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (822)
+[2024.05.07-20.03.27:245][547]LogModuleManager: Shutting down and abandoning module Kismet (819)
+[2024.05.07-20.03.27:252][547]LogModuleManager: Shutting down and abandoning module KismetWidgets (818)
+[2024.05.07-20.03.27:252][547]LogModuleManager: Shutting down and abandoning module GraphEditor (815)
+[2024.05.07-20.03.27:253][547]LogModuleManager: Shutting down and abandoning module StructViewer (813)
+[2024.05.07-20.03.27:253][547]LogModuleManager: Shutting down and abandoning module NaniteTools (811)
+[2024.05.07-20.03.27:253][547]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (809)
+[2024.05.07-20.03.27:254][547]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (807)
+[2024.05.07-20.03.27:254][547]LogModuleManager: Shutting down and abandoning module SourceControlWindows (805)
+[2024.05.07-20.03.27:254][547]LogModuleManager: Shutting down and abandoning module OutputLog (803)
+[2024.05.07-20.03.27:255][547]LogModuleManager: Shutting down and abandoning module Documentation (801)
+[2024.05.07-20.03.27:255][547]LogModuleManager: Shutting down and abandoning module LiveCoding (799)
+[2024.05.07-20.03.27:269][547]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (797)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (795)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module MovieScene (793)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (791)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (789)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (787)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module AudioMixer (786)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module AudioMixerCore (785)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module LauncherPlatform (781)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module AnalyticsET (779)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module PortalServices (777)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module PortalRpc (775)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module MessagingRpc (773)
+[2024.05.07-20.03.27:270][547]LogModuleManager: Shutting down and abandoning module AIModule (771)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module AITestSuite (770)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module NavigationSystem (768)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module DataLayerEditor (765)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module EditorWidgets (764)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (761)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (759)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module TypedElementFramework (757)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (755)
+[2024.05.07-20.03.27:271][547]LogModuleManager: Shutting down and abandoning module ProfilerService (753)
+[2024.05.07-20.03.27:509][547]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (751)
+[2024.05.07-20.03.27:510][547]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (749)
+[2024.05.07-20.03.27:510][547]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (747)
+[2024.05.07-20.03.27:510][547]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (745)
+[2024.05.07-20.03.27:510][547]LogModuleManager: Shutting down and abandoning module TakesCore (743)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (741)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module MegascansPlugin (739)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module Bridge (737)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (735)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (733)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (731)
+[2024.05.07-20.03.27:511][547]LogModuleManager: Shutting down and abandoning module CollectionManager (730)
+[2024.05.07-20.03.27:512][547]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (727)
+[2024.05.07-20.03.27:512][547]LogModuleManager: Shutting down and abandoning module LightMixer (725)
+[2024.05.07-20.03.27:512][547]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (723)
+[2024.05.07-20.03.27:513][547]LogModuleManager: Shutting down and abandoning module MediaPlate (721)
+[2024.05.07-20.03.27:513][547]LogModuleManager: Shutting down and abandoning module MediaIOCore (719)
+[2024.05.07-20.03.27:513][547]LogModuleManager: Shutting down and abandoning module ImgMedia (717)
+[2024.05.07-20.03.27:513][547]LogModuleManager: Shutting down and abandoning module MediaCompositing (715)
+[2024.05.07-20.03.27:513][547]LogModuleManager: Shutting down and abandoning module VariantManager (713)
+[2024.05.07-20.03.27:514][547]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (711)
+[2024.05.07-20.03.27:515][547]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (709)
+[2024.05.07-20.03.27:515][547]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (707)
+[2024.05.07-20.03.27:515][547]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (705)
+[2024.05.07-20.03.27:515][547]LogModuleManager: Shutting down and abandoning module Paper2DEditor (703)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module TakeSequencer (701)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module TakeMovieScene (699)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (697)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (695)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module StylusInput (693)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (691)
+[2024.05.07-20.03.27:516][547]LogModuleManager: Shutting down and abandoning module PluginBrowser (689)
+[2024.05.07-20.03.27:517][547]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (687)
+[2024.05.07-20.03.27:518][547]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (685)
+[2024.05.07-20.03.27:518][547]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (683)
+[2024.05.07-20.03.27:518][547]LogModuleManager: Shutting down and abandoning module GLTFImporter (681)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module GLTFCore (679)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (677)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module EditorDebugTools (675)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module CurveEditorTools (673)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (671)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module CryptoKeys (669)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module ChangelistReview (667)
+[2024.05.07-20.03.27:519][547]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (665)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (663)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module UObjectPlugin (661)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (659)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (657)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (655)
+[2024.05.07-20.03.27:520][547]LogModuleManager: Shutting down and abandoning module PluginUtils (653)
+[2024.05.07-20.03.27:521][547]LogModuleManager: Shutting down and abandoning module GitSourceControl (651)
+[2024.05.07-20.03.27:521][547]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (649)
+[2024.05.07-20.03.27:521][547]LogModuleManager: Shutting down and abandoning module DumpGPUServices (647)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (645)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module SynthesisEditor (643)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ResonanceAudio (641)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (639)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (637)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (635)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ModelingOperators (633)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (631)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module ModelingComponents (629)
+[2024.05.07-20.03.27:522][547]LogModuleManager: Shutting down and abandoning module GeometryFramework (628)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (625)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module MeshModelingTools (623)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (621)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module InputDebugging (619)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (617)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (615)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (613)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module GooglePAD (611)
+[2024.05.07-20.03.27:523][547]LogModuleManager: Shutting down and abandoning module DynamicMesh (609)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (607)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AudioCapture (605)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (604)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (601)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AssetTags (599)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (597)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AppleImageUtils (595)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module NiagaraUIRendererEditor (593)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AndroidPermission (591)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (589)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (587)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (585)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module InterchangeTests (583)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AlembicImporter (581)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module AlembicLibrary (580)
+[2024.05.07-20.03.27:524][547]LogModuleManager: Shutting down and abandoning module GeometryCache (579)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (578)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (573)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (569)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (567)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (565)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeEditor (563)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module TemplateSequence (561)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (559)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (557)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (555)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangePipelines (553)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeExport (551)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeMessages (549)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeImport (547)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (545)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module InterchangeNodes (543)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (541)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module SequencerScripting (539)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (537)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (535)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module ControlRigSpline (533)
+[2024.05.07-20.03.27:525][547]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (531)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module UVEditorTools (529)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module UVEditor (527)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module PresetAsset (525)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module RemoteSessionEditor (523)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (521)
+[2024.05.07-20.03.27:526][547]LogOpenImageDenoise: OIDN shutting down
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (519)
+[2024.05.07-20.03.27:526][547]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (517)
+[2024.05.07-20.03.27:527][547]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (515)
+[2024.05.07-20.03.27:527][547]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (513)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module MeshLODToolset (511)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (509)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (507)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (505)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (503)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (501)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (500)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (498)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (495)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module DataflowNodes (493)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (491)
+[2024.05.07-20.03.27:528][547]LogModuleManager: Shutting down and abandoning module DataflowEditor (489)
+[2024.05.07-20.03.27:529][547]LogModuleManager: Shutting down and abandoning module ChaosNiagara (487)
+[2024.05.07-20.03.27:529][547]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (485)
+[2024.05.07-20.03.27:529][547]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (483)
+[2024.05.07-20.03.27:529][547]LogModuleManager: Shutting down and abandoning module FractureEditor (481)
+[2024.05.07-20.03.27:530][547]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (479)
+[2024.05.07-20.03.27:530][547]LogModuleManager: Shutting down and abandoning module BackChannel (477)
+[2024.05.07-20.03.27:530][547]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (475)
+[2024.05.07-20.03.27:530][547]LogModuleManager: Shutting down and abandoning module AutomationUtils (473)
+[2024.05.07-20.03.27:530][547]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (471)
+[2024.05.07-20.03.27:531][547]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (469)
+[2024.05.07-20.03.27:531][547]LogModuleManager: Shutting down and abandoning module TraceUtilities (467)
+[2024.05.07-20.03.27:531][547]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (465)
+[2024.05.07-20.03.27:531][547]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (463)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module InputEditor (461)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module BlueprintGraph (460)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module CardGame (457)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (453)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module Paper2D (451)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (449)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (447)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module FacialAnimation (445)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module DataValidation (443)
+[2024.05.07-20.03.27:532][547]LogModuleManager: Shutting down and abandoning module UdpMessaging (441)
+[2024.05.07-20.03.27:634][547]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (439)
+[2024.05.07-20.03.27:634][547]LogModuleManager: Shutting down and abandoning module TreeMap (438)
+[2024.05.07-20.03.27:635][547]LogModuleManager: Shutting down and abandoning module TcpMessaging (435)
+[2024.05.07-20.03.27:735][547]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (433)
+[2024.05.07-20.03.27:735][547]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (431)
+[2024.05.07-20.03.27:735][547]LogModuleManager: Shutting down and abandoning module AnimationSharing (429)
+[2024.05.07-20.03.27:735][547]LogModuleManager: Shutting down and abandoning module Synthesis (427)
+[2024.05.07-20.03.27:736][547]LogModuleManager: Shutting down and abandoning module SignificanceManager (425)
+[2024.05.07-20.03.27:736][547]LogModuleManager: Shutting down and abandoning module SoundFields (423)
+[2024.05.07-20.03.27:736][547]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (421)
+[2024.05.07-20.03.27:736][547]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (419)
+[2024.05.07-20.03.27:736][547]LogModuleManager: Shutting down and abandoning module MetasoundEditor (417)
+[2024.05.07-20.03.27:737][547]LogModuleManager: Shutting down and abandoning module AudioWidgets (416)
+[2024.05.07-20.03.27:737][547]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (415)
+[2024.05.07-20.03.27:738][547]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (411)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module MetasoundEngine (409)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module WaveTable (408)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (406)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (403)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (401)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (399)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (397)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (395)
+[2024.05.07-20.03.27:739][547]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (393)
+[2024.05.07-20.03.27:740][547]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (392)
+[2024.05.07-20.03.27:740][547]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (389)
+[2024.05.07-20.03.27:740][547]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (387)
+[2024.05.07-20.03.27:740][547]LogModuleManager: Shutting down and abandoning module GameplayAbilitiesEditor (385)
+[2024.05.07-20.03.27:741][547]LogModuleManager: Shutting down and abandoning module GameplayAbilities (383)
+[2024.05.07-20.03.27:741][547]LogModuleManager: Shutting down and abandoning module GameplayDebugger (382)
+[2024.05.07-20.03.27:741][547]LogModuleManager: Shutting down and abandoning module CableComponent (379)
+[2024.05.07-20.03.27:741][547]LogModuleManager: Shutting down and abandoning module DataRegistryEditor (377)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module DataRegistry (375)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module NiagaraUIRenderer (373)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module GameplayCameras (371)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module ActorSequence (369)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (367)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module IKRig (365)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (363)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module ControlRig (361)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module Constraints (360)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module AnimationData (357)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (355)
+[2024.05.07-20.03.27:742][547]LogModuleManager: Shutting down and abandoning module PBIK (353)
+[2024.05.07-20.03.27:743][547]LogModuleManager: Shutting down and abandoning module FullBodyIK (351)
+[2024.05.07-20.03.27:743][547]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (349)
+[2024.05.07-20.03.27:743][547]LogModuleManager: Shutting down and abandoning module TakeRecorder (348)
+[2024.05.07-20.03.27:743][547]LogModuleManager: Shutting down and abandoning module LevelEditor (346)
+[2024.05.07-20.03.27:747][547]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (345)
+[2024.05.07-20.03.27:747][547]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (343)
+[2024.05.07-20.03.27:747][547]LogModuleManager: Shutting down and abandoning module MainFrame (341)
+[2024.05.07-20.03.27:747][547]LogModuleManager: Shutting down and abandoning module HotReload (340)
+[2024.05.07-20.03.27:749][547]LogModuleManager: Shutting down and abandoning module ChaosCaching (335)
+[2024.05.07-20.03.27:749][547]LogModuleManager: Shutting down and abandoning module LevelSequence (334)
+[2024.05.07-20.03.27:749][547]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (331)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (329)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module Niagara (327)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module SignalProcessing (326)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module NiagaraEditor (324)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module ToolMenus (322)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module NiagaraCore (315)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (313)
+[2024.05.07-20.03.27:750][547]LogModuleManager: Shutting down and abandoning module EnhancedInput (311)
+[2024.05.07-20.03.27:751][547]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (309)
+[2024.05.07-20.03.27:752][547]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (307)
+[2024.05.07-20.03.27:752][547]LogModuleManager: Shutting down and abandoning module AndroidFileServer (305)
+[2024.05.07-20.03.27:752][547]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (303)
+[2024.05.07-20.03.27:752][547]LogModuleManager: Shutting down and abandoning module PacketHandler (301)
+[2024.05.07-20.03.27:752][547]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (299)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module AnimGraph (297)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module TimeManagement (295)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module AnimationDataController (293)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (291)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (289)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module MediaAssets (287)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module Overlay (285)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module OverlayEditor (284)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module VREditor (281)
+[2024.05.07-20.03.27:753][547]LogModuleManager: Shutting down and abandoning module StringTableEditor (279)
+[2024.05.07-20.03.27:754][547]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (277)
+[2024.05.07-20.03.27:754][547]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (275)
+[2024.05.07-20.03.27:755][547]LogModuleManager: Shutting down and abandoning module FunctionalTesting (273)
+[2024.05.07-20.03.27:755][547]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (271)
+[2024.05.07-20.03.27:756][547]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (270)
+[2024.05.07-20.03.27:756][547]LogModuleManager: Shutting down and abandoning module UMG (267)
+[2024.05.07-20.03.27:756][547]LogModuleManager: Shutting down and abandoning module UMGEditor (266)
+[2024.05.07-20.03.27:757][547]LogModuleManager: Shutting down and abandoning module EditorStyle (261)
+[2024.05.07-20.03.27:757][547]LogModuleManager: Shutting down and abandoning module SlateReflector (259)
+[2024.05.07-20.03.27:759][547]LogModuleManager: Shutting down and abandoning module Slate (257)
+[2024.05.07-20.03.27:759][547]LogModuleManager: Shutting down and abandoning module SlateCore (255)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (253)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (251)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module UnrealEd (249)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module MRMesh (247)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module Messaging (245)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (243)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (241)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module Networking (239)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module Core (237)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module AssetDefinition (235)
+[2024.05.07-20.03.27:762][547]LogModuleManager: Shutting down and abandoning module MovieSceneTools (233)
+[2024.05.07-20.03.27:763][547]LogModuleManager: Shutting down and abandoning module CurveEditor (232)
+[2024.05.07-20.03.27:764][547]LogModuleManager: Shutting down and abandoning module Sequencer (230)
+[2024.05.07-20.03.27:765][547]LogModuleManager: Shutting down and abandoning module KismetCompiler (227)
+[2024.05.07-20.03.27:765][547]LogModuleManager: Shutting down and abandoning module MeshBuilder (225)
+[2024.05.07-20.03.27:766][547]LogModuleManager: Shutting down and abandoning module NaniteBuilder (223)
+[2024.05.07-20.03.27:766][547]LogModuleManager: Shutting down and abandoning module MeshUtilities (221)
+[2024.05.07-20.03.27:767][547]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (220)
+[2024.05.07-20.03.27:767][547]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (219)
+[2024.05.07-20.03.27:767][547]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (218)
+[2024.05.07-20.03.27:767][547]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (216)
+[2024.05.07-20.03.27:767][547]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (214)
+[2024.05.07-20.03.27:768][547]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (212)
+[2024.05.07-20.03.27:769][547]LogModuleManager: Shutting down and abandoning module MaterialBaking (208)
+[2024.05.07-20.03.27:769][547]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (205)
+[2024.05.07-20.03.27:780][547]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (201)
+[2024.05.07-20.03.27:780][547]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (199)
+[2024.05.07-20.03.27:780][547]LogModuleManager: Shutting down and abandoning module DerivedDataCache (197)
+[2024.05.07-20.03.27:784][547]LogModuleManager: Shutting down and abandoning module TargetPlatform (195)
+[2024.05.07-20.03.27:784][547]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (194)
+[2024.05.07-20.03.27:784][547]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (192)
+[2024.05.07-20.03.27:785][547]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (190)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (188)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (186)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module AudioFormatBink (184)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (181)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (179)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (177)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (175)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (173)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.05.07-20.03.27:786][547]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (165)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (163)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormat (161)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (158)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (156)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (154)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (152)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (150)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (148)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module TurnkeySupport (145)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module InputCore (142)
+[2024.05.07-20.03.27:787][547]LogModuleManager: Shutting down and abandoning module Settings (140)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (138)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (136)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (135)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module Chaos (132)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module GeometryCore (131)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (128)
+[2024.05.07-20.03.27:788][547]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (127)
+[2024.05.07-20.03.27:789][547]LogModuleManager: Shutting down and abandoning module AVEncoder (126)
+[2024.05.07-20.03.27:789][547]LogModuleManager: Shutting down and abandoning module D3D12RHI (122)
+[2024.05.07-20.03.27:789][547]LogModuleManager: Shutting down and abandoning module WmfMedia (120)
+[2024.05.07-20.03.27:793][547]LogModuleManager: Shutting down and abandoning module Media (119)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module GPUTextureTransfer (116)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (114)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module VariantManagerContent (112)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module GLTFExporter (110)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module DatasmithContent (108)
+[2024.05.07-20.03.27:795][547]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (106)
+[2024.05.07-20.03.27:796][547]RenderDocPlugin: plugin has been unloaded.
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module PixWinPlugin (104)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2024.05.07-20.03.27:796][547]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2024.05.07-20.03.27:800][547]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2024.05.07-20.03.27:801][547]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2024.05.07-20.03.27:820][547]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2024.05.07-20.03.27:820][547]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.07-20.03.27:820][547]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB314E1E-4384-8333-2DA9-C6B81194E68E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=91991f3d4f3291458477bfbc5946a49b%7Ca4933cf6897d4b5c9c2a6a6f4abe784f%7C065a8491-f6e6-46ea-ab65-3e9c18929458&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.07-20.03.27:853][547]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2024.05.07-20.03.27:855][547]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (78)
+[2024.05.07-20.03.27:855][547]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (76)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (74)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module RemoteSession (70)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module ChaosCloth (68)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2024.05.07-20.03.27:856][547]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (58)
+[2024.05.07-20.03.27:858][547]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2024.05.07-20.03.27:859][547]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2024.05.07-20.03.27:859][547]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2024.05.07-20.03.27:860][547]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2024.05.07-20.03.27:860][547]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2024.05.07-20.03.27:860][547]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2024.05.07-20.03.27:860][547]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.05.07-20.03.27:860][547]LogXGEController: Cleaning working directory: C:/Users/wikto/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.05.07-20.03.27:861][547]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.05.07-20.03.27:862][547]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.05.07-20.03.27:863][547]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.05.07-20.03.27:864][547]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.05.07-20.03.27:864][547]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.05.07-20.03.27:864][547]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.05.07-20.03.27:865][547]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.05.07-20.03.27:865][547]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.07-20.03.27:865][547]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.07-20.03.27:865][547]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.07-20.03.27:865][547]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.07-20.03.27:866][547]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.07-20.03.27:867][547]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.07-20.03.27:868][547]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.07-20.03.28:001][547]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.07-20.03.28:051][547]LogExit: Exiting.
+[2024.05.07-20.03.28:096][547]Log file closed, 05/07/24 21:03:28
