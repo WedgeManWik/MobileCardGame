@@ -5,13 +5,7 @@
 
 UGAAttributeSet::UGAAttributeSet()
 {
-	MaxHealth = 100.f;
-	MaxMana = 50.f;
-	MaxEnergy = 50.f;
 
-	Health = MaxHealth;
-	Mana = MaxMana;
-	Energy = MaxEnergy;
 }
 
 void UGAAttributeSet::PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const
