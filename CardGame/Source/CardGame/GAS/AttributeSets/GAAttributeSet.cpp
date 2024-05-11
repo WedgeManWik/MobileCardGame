@@ -41,6 +41,22 @@ void UGAAttributeSet::ClampAttributeOnChange(const FGameplayAttribute& Attribute
 	{
 		NewValue = FMath::Clamp(NewValue, 0.0f, GetMaxEnergy());
 	}
+	else if (Attribute == GetMagicAttackAttribute())
+	{
+		NewValue = FMath::Clamp(NewValue, 0.0f, NewValue);
+	}
+	else if (Attribute == GetMagicDefenceAttribute())
+	{
+		NewValue = FMath::Clamp(NewValue, 0.0f, NewValue);
+	}
+	else if (Attribute == GetPhysicalAttackAttribute())
+	{
+		NewValue = FMath::Clamp(NewValue, 0.0f, NewValue);
+	}
+	else if (Attribute == GetPhysicalDefenceAttribute())
+	{
+		NewValue = FMath::Clamp(NewValue, 0.0f, NewValue);
+	}
 	else if (Attribute == GetMagicBlockAttribute())
 	{
 		NewValue = FMath::Clamp(NewValue, 0.0f, NewValue);
