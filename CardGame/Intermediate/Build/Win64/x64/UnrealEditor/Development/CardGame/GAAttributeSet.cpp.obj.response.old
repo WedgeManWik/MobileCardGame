@@ -309,7 +309,10 @@ D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\AttributeSets\GAAttributeS
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.h"
+/FI"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\Definitions.CardGame.h"
+/Yu"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\CardGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
 /Fo"D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\GAAttributeSet.cpp.obj"
 /sourceDependencies D:\GitHub\MobileCardGame\CardGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CardGame\GAAttributeSet.cpp.dep.json
 /Zc:inline
