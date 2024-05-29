@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocations.uasset",
-				"D:/GitHub/MobileCardGame/CardGame/Content/SoulCave/Maps/LV_Soul_Cave_Mobile.umap"
+				"D:/GitHub/MobileCardGame/CardGame/Content/SoulCave/Maps/LV_Soul_Cave_Mobile.umap",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocationSpecial.uasset"
 			]
 		}
 	]
