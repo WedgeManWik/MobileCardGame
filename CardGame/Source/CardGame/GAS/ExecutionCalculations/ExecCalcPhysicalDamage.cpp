@@ -70,9 +70,8 @@ void UExecCalcPhysicalDamage::Execute_Implementation(const FGameplayEffectCustom
 
 	float BaseDamage = FMath::Max<float>(Spec.GetSetByCallerMagnitude(FGameplayTag::RequestGameplayTag(FName("Attribute.ChangeAmount")), false, -1.0f), 0.0f);
 
-	float DamageMultiplier = ((PhysicalAttack / 100.f) + 1.f) * (1.f - ((PhysicalDefence / 100.f) * 0.5f));
-	int DamageToDealInt = FMath::TruncToInt(BaseDamage * DamageMultiplier * 100.f);
-	float DamageToDeal = DamageToDealInt / 100.f;
+	float DamageMultiplier = (PhysicalAttack - PhysicalDefence) * 0.01f + 1.f;
+	float DamageToDeal = BaseDamage * DamageMultiplier;
 
 	float LeftOverDamage = FMath::Max(DamageToDeal - PhysicalBlock, 0.f);
 	ExecutionOutput.AddOutputModifier(FGameplayModifierEvaluatedData(GetPhysicalDamageCapture().PhysicalBlockProperty, EGameplayModOp::Override, FMath::Max(PhysicalBlock - DamageToDeal, 0.f)));

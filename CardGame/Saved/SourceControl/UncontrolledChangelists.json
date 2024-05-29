@@ -7,7 +7,19 @@
 			"files": [
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocations.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/SoulCave/Maps/LV_Soul_Cave_Mobile.umap",
-				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocationSpecial.uasset"
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocationSpecial.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_CardHUD.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/BP_BaseEnemy.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Blueprints/PC_PlayerController.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/TopDown/Maps/MainMenu.umap",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/BP_BaseCharacter.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Blueprints/BP_PlayerCharacter.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/WB_TextPrompt.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/StatusEffects/WB_StatusEffect.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/BPFL_General.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/GM_CardGame.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_CardHand.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_Card.uasset"
 			]
 		}
 	]

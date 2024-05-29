@@ -1,8 +1,8 @@
 D:\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGame.h
+D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\Abilities\GAGameplayAbility.h
 D:\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGamePlayerController.h
+D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\ExecutionCalculations\ExecCalcMagicDamage.h
+D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\ExecutionCalculations\ExecCalcPhysicalDamage.h
+D:\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGameGameMode.h
 D:\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGameCharacter.h
 D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\AttributeSets\GAAttributeSet.h
-D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\ExecutionCalculations\ExecCalcMagicDamage.h
-D:\GitHub\MobileCardGame\CardGame\Source\CardGame\CardGameGameMode.h
-D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\ExecutionCalculations\ExecCalcPhysicalDamage.h
-D:\GitHub\MobileCardGame\CardGame\Source\CardGame\GAS\Abilities\GAGameplayAbility.h
