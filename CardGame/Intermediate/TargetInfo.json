@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CardGame",
+			"Path": "D:\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CardGameEditor",
+			"Path": "D:\\GitHub\\MobileCardGame\\CardGame\\Source\\CardGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

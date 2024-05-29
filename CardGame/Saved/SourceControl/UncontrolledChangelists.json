@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/BP_SpawnLocations.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/SoulCave/Maps/LV_Soul_Cave_Mobile.umap"
+			]
+		}
+	]
+}
