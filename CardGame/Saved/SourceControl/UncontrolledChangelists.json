@@ -19,7 +19,22 @@
 				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/BPFL_General.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/GM_CardGame.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_CardHand.uasset",
-				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_Card.uasset"
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/WB_Card.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IMC_Player.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/PC_LevelSelection.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IA_Click.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IA_Zoom.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/Menus/DeckBuild/WB_DeckBuild.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/Menus/CardSwap/WB_CardSwap.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/Menus/RewardScreen/WB_RewardScreen.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/Menus/Workshop/WB_Workshop.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/Menus/RewardScreen/CardUnlock/WB_CardUnlock.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy1.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy2.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy3.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy4.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy5.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IA_Touch.uasset"
 			]
 		}
 	]
