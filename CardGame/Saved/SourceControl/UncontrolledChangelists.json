@@ -40,6 +40,9 @@
 				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/DrawCards/GA_EtherDisruption.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/AbilityActors/Test_VFX.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/DrawCards/GA_BattleTactics.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/GA_BaseGA.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/StatusBars/WB_CharacterStatBar.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/StatusBars/WB_StatBar.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IA_Touch.uasset"
 			]
 		}

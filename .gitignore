@@ -67,4 +67,5 @@ Build/*/**
 Saved/*
 CardGame/Intermediate/ProjectFiles/UE5.vcxproj
 CardGame/Saved
+CardGame/PackagedBuild
 CardGame/Binaries/Win64/CardGame.pdb
