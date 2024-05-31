@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\unrealgame\\inc\\cardgame\\uht\\cardgamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\cardgame\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cardgame\\definitions.cardgame.h",
+            "d:\\github\\mobilecardgame\\cardgame\\source\\cardgame\\cardgamegamemode.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\unrealgame\\inc\\cardgame\\uht\\cardgamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

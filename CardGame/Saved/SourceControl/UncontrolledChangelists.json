@@ -34,6 +34,12 @@
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy3.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy4.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Enemies/EnemyCharacters/BP_Enemy5.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/Cards/DT_Cards.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GameModes/GI_GameInstance.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/UI/FloatyText/BP_FloatyText.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/DrawCards/GA_EtherDisruption.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/AbilityActors/Test_VFX.uasset",
+				"D:/GitHub/MobileCardGame/CardGame/Content/GAS/Abilities/DrawCards/GA_BattleTactics.uasset",
 				"D:/GitHub/MobileCardGame/CardGame/Content/GameCharacters/Player/Input/IA_Touch.uasset"
 			]
 		}

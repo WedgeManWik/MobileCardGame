@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\unrealgame\\inc\\cardgame\\uht\\cardgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\cardgame\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\github\\mobilecardgame\\cardgame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cardgame\\definitions.cardgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
